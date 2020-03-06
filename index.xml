@@ -6,10 +6,19 @@
     <description>Recent content on CleFourrier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 19:00:12 +0100</lastBuildDate>
     
 	    <atom:link href="https://clefourrier.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://clefourrier.github.io/project/</link>
+      <pubDate>Fri, 06 Mar 2020 19:00:12 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CleFourrier</title>
+    <link>https://clefourrier.github.io/project/</link>
+    <description>Recent content in Projects on CleFourrier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2020 19:00:12 +0100</lastBuildDate>
+    
+	    <atom:link href="https://clefourrier.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Girls and math: a luminous equation (Sorbonne 2020)</title>
+      <link>https://clefourrier.github.io/project/2020_outreach_mathweek/</link>
+      <pubDate>Fri, 06 Mar 2020 19:00:12 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/project/2020_outreach_mathweek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Women Mathematician Days (INRIA Paris 2019)</title>
+      <link>https://clefourrier.github.io/project/2019_outreach_rjmi/</link>
+      <pubDate>Fri, 06 Mar 2020 18:59:59 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/project/2019_outreach_rjmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highschool students summer school (ESPCI 2019)</title>
+      <link>https://clefourrier.github.io/project/2019_outreach_espci/</link>
+      <pubDate>Wed, 31 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://clefourrier.github.io/project/2019_outreach_espci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://clefourrier.github.io/authors/</loc>
-    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <loc>https://clefourrier.github.io/</loc>
+    <lastmod>2020-03-06T19:00:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://clefourrier.github.io/</loc>
+    <loc>https://clefourrier.github.io/project/2020_outreach_mathweek/</loc>
+    <lastmod>2020-03-06T19:00:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/project/</loc>
+    <lastmod>2020-03-06T19:00:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/project/2019_outreach_rjmi/</loc>
+    <lastmod>2020-03-06T18:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/authors/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -538,6 +553,31 @@
   </url>
   
   <url>
+    <loc>https://clefourrier.github.io/tags/espci/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/project/2019_outreach_espci/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/intro-to-software/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/outreach/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clefourrier.github.io/content_pages/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -568,10 +608,6 @@
   
   <url>
     <loc>https://clefourrier.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clefourrier.github.io/tags/</loc>
   </url>
   
 </urlset>
