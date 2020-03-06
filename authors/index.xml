@@ -6,10 +6,19 @@
     <description>Recent content in Authors on CleFourrier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://clefourrier.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clémentine Fourrier</title>
+      <link>https://clefourrier.github.io/authors/cl%C3%A9mentine-fourrier/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clefourrier.github.io/authors/cl%C3%A9mentine-fourrier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alex Diaz-Papkovich</title>
@@ -881,7 +890,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://clefourrier.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently working on the application of neural networks to historical computational linguistics&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m doing my PhD in the ALMAnaCH team in Paris, on AI and historical linguistics.&lt;/p&gt;
+&lt;p&gt;I developped MEDeA, a Multiway Encoder Decoder Architecture, to try and do sound change predictions using neural networks. It&amp;rsquo;s a work in progress so far!&lt;/p&gt;
+&lt;p&gt;For an overview of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;my research (as of March 2020), see my &lt;a href=&#34;talk/almanach/team-seminar-2020-03/&#34;&gt;talk&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;my previous life as a software engineer and geologist, see my &lt;a href=&#34;https://www.linkedin.com/in/clefourrier/&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
