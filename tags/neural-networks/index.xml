@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural networks on CleFourrier</title>
+    <link>https://clefourrier.github.io/tags/neural-networks/</link>
+    <description>Recent content in neural networks on CleFourrier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2020 09:22:29 +0100</lastBuildDate>
+    
+	    <atom:link href="https://clefourrier.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing Statistical and Neural Models for Learning Sound Correspondences</title>
+      <link>https://clefourrier.github.io/publication/2020_comparing-statistical-and-neural-models-for-learning-sound-correspondences/</link>
+      <pubDate>Wed, 06 May 2020 09:22:29 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/publication/2020_comparing-statistical-and-neural-models-for-learning-sound-correspondences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

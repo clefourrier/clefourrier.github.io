@@ -6,10 +6,28 @@
     <description>Recent content in Clémentine Fourrier on CleFourrier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 09:22:29 +0100</lastBuildDate>
     
 	    <atom:link href="https://clefourrier.github.io/authors/cl%C3%A9mentine-fourrier/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing Statistical and Neural Models for Learning Sound Correspondences</title>
+      <link>https://clefourrier.github.io/publication/2020_comparing-statistical-and-neural-models-for-learning-sound-correspondences/</link>
+      <pubDate>Wed, 06 May 2020 09:22:29 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/publication/2020_comparing-statistical-and-neural-models-for-learning-sound-correspondences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB 2.0</title>
+      <link>https://clefourrier.github.io/publication/2020_methodological-aspects-of-developing-and-managing-an-etymological-lexical-resource-introducing-etymdb-2/</link>
+      <pubDate>Wed, 06 May 2020 09:22:29 +0100</pubDate>
+      
+      <guid>https://clefourrier.github.io/publication/2020_methodological-aspects-of-developing-and-managing-an-etymological-lexical-resource-introducing-etymdb-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Sound Correspondences: What about Neural Networks?</title>
