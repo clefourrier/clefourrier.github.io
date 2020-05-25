@@ -83,6 +83,41 @@
   </url>
   
   <url>
+    <loc>https://clefourrier.github.io/authors/admin/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/software/medea/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/nn/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/open-source/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/soft/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/software/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/translation/</loc>
+    <lastmod>2020-05-01T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clefourrier.github.io/project/2020_outreach_mathweek/</loc>
     <lastmod>2020-03-06T19:00:12+01:00</lastmod>
   </url>
@@ -108,7 +143,17 @@
   </url>
   
   <url>
+    <loc>https://clefourrier.github.io/tags/db/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clefourrier.github.io/tags/espci/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/software/etymdb/</loc>
     <lastmod>2019-07-31T14:00:00+00:00</lastmod>
   </url>
   
@@ -119,6 +164,11 @@
   
   <url>
     <loc>https://clefourrier.github.io/tags/intro-to-software/</loc>
+    <lastmod>2019-07-31T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/tags/language-change/</loc>
     <lastmod>2019-07-31T14:00:00+00:00</lastmod>
   </url>
   
@@ -148,16 +198,16 @@
   </url>
   
   <url>
-    <loc>https://clefourrier.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clefourrier.github.io/post/bau_et_al_2019_iclr/</loc>
-    <priority>0</priority>
+    <loc>https://clefourrier.github.io/software/leasp/</loc>
+    <lastmod>2017-07-31T14:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://clefourrier.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://clefourrier.github.io/software/phonlanggen/</loc>
   </url>
   
   <url>

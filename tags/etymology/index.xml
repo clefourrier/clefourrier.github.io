@@ -20,5 +20,17 @@
       <description></description>
     </item>
     
+    <item>
+      <title>EtymDB 2
+&lt;img src=&#34;https://clefourrier.github.io/img/dev_icons/perl.svg&#34; align=&#34;right&#34; height=&#34;35&#34; width=&#34;35&#34; &gt; 
+&lt;img src=&#34;https://clefourrier.github.io/img/dev_icons/wiktionary.png&#34; align=&#34;right&#34; height=&#34;35&#34; width=&#34;35&#34; &gt; 
+</title>
+      <link>https://clefourrier.github.io/software/etymdb/</link>
+      <pubDate>Wed, 31 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://clefourrier.github.io/software/etymdb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

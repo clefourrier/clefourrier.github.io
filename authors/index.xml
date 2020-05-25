@@ -32,18 +32,13 @@
     <item>
       <title></title>
       <link>https://clefourrier.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 14:00:00 +0000</pubDate>
       
       <guid>https://clefourrier.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m doing my PhD in the ALMAnaCH team in Paris, on AI and historical linguistics.&lt;/p&gt;
-&lt;p&gt;I developped MEDeA, a Multiway Encoder Decoder Architecture, to try and do sound change predictions using neural networks. It&amp;rsquo;s a work in progress so far!&lt;/p&gt;
-&lt;p&gt;For an overview of:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;my publications, see &lt;a href=&#34;content_pages/publications&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my softwares, see &lt;a href=&#34;content_pages/software&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;my previous life as a software engineer and geologist, see my &lt;a href=&#34;https://www.linkedin.com/in/clefourrier/&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Thanks to &lt;a href=&#34;https://alix-tz.github.io/&#34;&gt;Alix&lt;/a&gt; for her logos&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m doing my PhD in the ALMAnaCH team in Paris, on AI for historical linguistics. &lt;br&gt;
+(For my previous engineering work, see my &lt;a href=&#34;https://www.linkedin.com/in/clefourrier/&#34;&gt;LinkedIn&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;At the moment, I&amp;rsquo;m developping &lt;a href=&#34;content_pages/software&#34;&gt;MEDeA&lt;/a&gt;, a Multiway Encoder Decoder Architecture, to try and do sound change/cognate predictions using neural networks. &lt;a href=&#34;publication/2020_comparing-statistical-and-neural-models-for-learning-sound-correspondences/&#34;&gt;Preliminary results&lt;/a&gt; are promising!&lt;/p&gt;
+&lt;p&gt;&lt;small&gt; Keywords: NLP, RNN, Cognates, Etymology, Python &lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
     
