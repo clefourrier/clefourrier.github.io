@@ -3,10 +3,11 @@
 
 # {{<img src="img/banner.jpg" width=100% >}}
 
+
 = Clémentine Fourrier
 
 ~~~
-{}{img_left}{img/logo.jpg}{}{130px}{}{}
+{}{img_left}{img/logo.png}{}{130px}{}{}
 
 == Welcome!
 I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. I work on using neural networks for historical linguistics, and how that can improve low resource machine translation. (Also interested in  neural network interpretability).
