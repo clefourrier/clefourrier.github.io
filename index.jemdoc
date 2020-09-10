@@ -3,18 +3,19 @@
 
 # {{<img src="img/banner.jpg" width=100% >}}
 
-
 = Clémentine Fourrier
 
 ~~~
 {}{img_left}{img/logo.png}{}{130px}{}{}
 
 == Welcome!
-I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. I work on using neural networks for historical linguistics, and how that can improve low resource machine translation. (Also interested in  neural network interpretability).
+I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. 
+I work on 
+- using neural networks for historical linguistics, 
+- improving low resource machine translation
+- and sometimes, neural network interpretability
 
 Before that, I worked as a software engineer for a couple of years (see my [https://www.linkedin.com/in/clefourrier/ LinkedIn]).
-
-You can find my NLP publications, software/databases, and talks in the ressources page.
 
 ~~~
 
@@ -23,7 +24,7 @@ You can reach me at +myfirstname dot mylastname at inria dot fr+, or +clefourrie
 
 
 
-= Research:
+= NLP Research:
 
 #include{ressources.jemdoc}
 

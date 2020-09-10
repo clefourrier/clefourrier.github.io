@@ -30,11 +30,11 @@ See also [https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en google sc
 
 
 == Databases
-- [https://github.com/clefourrier/EtymDB EtymDB2]: Fine grained etymological database, automatically extracted from a 2019 Wiktionary dump, which differentiates between inheritance, cognacy, borrowing, and different types of composition. \nIt is provided with several scripts for data analysis, including one to draw your own language trees from the word links.
+- [https://github.com/clefourrier/EtymDB EtymDB2]: Fine grained etymological database, automatically extracted from a 2019 Wiktionary dump, which differentiates between inheritance, cognacy, borrowing, and different types of composition. \nIt is provided with several scripts (as Jupyter notebooks) for data analysis, including one to draw your own language trees from the word links.
 
 == Software
-- [https://github.com/clefourrier/PLexGen PLexGen]: If you want to try conlanging, you can with PLexGen, my phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
-- [https://gitlab.inria.fr/medmospy/medea MEDeA] (Multiway Encoder Decoder Architecture): Fully parametrizable software for multilingual-translation architectue experiments on small datasets. Can also be used in historical linguistics for cognate prediction.
+- [https://github.com/clefourrier/PLexGen PLexGen]: If you want to try conlanging, you can with PLexGen, my phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications! (Only needs Python)
+- [https://gitlab.inria.fr/medmospy/medea MEDeA] (Multiway Encoder Decoder Architecture): Fully parametrizable software for multilingual-translation architectue experiments on small datasets. Can also be used in historical linguistics for cognate prediction. (Python, PyTorch)
 
 == Talks at conferences and seminars
 - RECITAL 2020 (French): *Evolution phonologique des langues et réseaux de neurones* \[[https://videos.univ-lorraine.fr/video.php?id=9730 Video]\], May 2020
