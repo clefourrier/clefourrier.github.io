@@ -7,12 +7,3 @@ jemdoc -c abstract.panel index.jemdoc
 To use github pages, an easy tutorial 
 https://learntocodewith.me/tutorials/github-pages/
 that also tells you how to make changes.
-
-
--------
-Pour compiler la page "index", run: python2.7 jemdoc.py -c abstract.panel index.jemdoc
-
-Pour aller sur le serveur de l'ens: ssh eberthier@di.ens.fr --> mdp: ****************
-Pour envoyer tout le dossier Dropbox/Website sur le serveur --> scp -r * eberthier@di.ens.fr:/import/sierra/eberthier/public_html
-
-Envoyer à spi@ens.fr si problème.
