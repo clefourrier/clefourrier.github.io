@@ -66,7 +66,6 @@ a:hover {
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: black;
-	border-bottom: 1px black solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
 	color:#838383;
