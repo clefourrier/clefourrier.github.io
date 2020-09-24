@@ -1,12 +1,4 @@
 [bodyend]
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script> 
-$(document).ready(function() {
-    $(".toggle-trigger").click(function() {
-        $(this).parent().nextAll('.toggle-wrap').first().slideToggle('slow');
-    });
-});
-</script>
 </body>
 </html>
 

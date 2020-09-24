@@ -364,6 +364,11 @@ img {
     border: none;
 }
 
+.aligncenter {
+    text-align: left;
+    vertical-align: middle;
+}
+
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
