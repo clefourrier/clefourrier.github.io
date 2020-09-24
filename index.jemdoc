@@ -28,7 +28,7 @@ You can reach me at +myfirstname dot mylastname at inria dot fr+, or +clefourrie
 #include{community.jemdoc}
 
 
-== About this site
+= About this site
 This site is static and lightweight, because 
 - I like to navigate the web in text mode
 - Ecology

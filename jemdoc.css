@@ -136,6 +136,7 @@ h2 {
 	color: darkorange;
 	padding-top: 0.8em;
 	font-size: 150%;
+	border-bottom: none;
 }
 
 h2 + h3 {
