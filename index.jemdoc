@@ -8,17 +8,16 @@
 # jemdoc: menu{./MENU}{index.html}{welcome}
 == Welcome!
 I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. 
-I work on 
+
+Research topics:
 - using neural networks for historical linguistics, 
 - improving low resource machine translation
 - and sometimes, neural network interpretability
 
-Before that, I worked as a software engineer for a couple of years (see my [https://www.linkedin.com/in/clefourrier/ LinkedIn]).
-
 ~~~
 
 == Contact
-You can reach me at +myfirstname dot mylastname at inria dot fr+, or +clefourrier+ on twitter. 
+You can reach me at +myfirstname dot mylastname at inria dot fr+, on [https://twitter.com/clefourrier Twitter], or [https://www.linkedin.com/in/clefourrier/ LinkedIn]. 
 
 
 #include{ressources.jemdoc}
