@@ -7,7 +7,9 @@
 
 # jemdoc: menu{./MENU}{index.html}{welcome}
 == Welcome!
-I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. 
+I am a Ph.D student (under the supervision of [http://alpage.inria.fr/~sagot/ Benoît Sagot]), in the [https://team.inria.fr/almanach/fr/ ALMAnaCH team] in [https://www.inria.fr/centre/paris Inria Paris]. I used to be a software engineer.
+
+Apart from research and programming, I am interested in outreach (mostly towards girls), making science understandable, and delicious food.
 
 Research topics:
 - using neural networks for historical linguistics, 
@@ -16,9 +18,10 @@ Research topics:
 
 ~~~
 
-== Contact
-You can reach me at +myfirstname dot mylastname at inria dot fr+, on [https://twitter.com/clefourrier Twitter], or [https://www.linkedin.com/in/clefourrier/ LinkedIn]. 
+*Contact*: You can reach me at /myfirstname dot mylastname at inria dot fr/, on [https://twitter.com/clefourrier Twitter], or [https://www.linkedin.com/in/clefourrier/ LinkedIn]. 
 
+== About this site
+This site is deliberately static and lightweight, for ecology, accessibility, and [https://jeffhuang.com/designed_to_last/ this] ([https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans French version]).
 
 #include{ressources.jemdoc}
 
@@ -27,9 +30,5 @@ You can reach me at +myfirstname dot mylastname at inria dot fr+, on [https://tw
 #include{community.jemdoc}
 
 
-= About this site
-This site is static and lightweight, because 
-- I like to navigate the web in text mode
-- Ecology
-- [https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans Ceci (in French)] or [https://jeffhuang.com/designed_to_last/ This (in English)]
+
 

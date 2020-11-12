@@ -11,12 +11,10 @@ See [https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en google scholar
 \n\[[https://www.aclweb.org/anthology/2020.jeptalnrecital-recital.9/ Paper], [https://videos.univ-lorraine.fr/index.php?act=view&id=9730 Presentation], [https://videos.univ-lorraine.fr/video.php?id=9730 Talk]\]
 
 = Ressources
-~~~
-== Database
-- [https://github.com/clefourrier/EtymDB EtymDB2]: Fine grained etymological database, automatically extracted from a 2019 Wiktionary dump, which differentiates between inheritance, cognacy, borrowing, and different types of composition. \nIt is provided with several scripts (as Jupyter notebooks) for data analysis, including one to draw your own language trees from the word links. \nFor more detail, see: Fourrier and Sagot. *Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB 2.0.* LREC 2020 \[[http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.392.pdf Paper]\]
+=== Database
+- [https://github.com/clefourrier/EtymDB EtymDB2]: Fine grained etymological database, automatically extracted from a 2019 Wiktionary dump, which differentiates between inheritance, cognacy, borrowing, and different types of composition. \nIt is provided with several scripts (as Jupyter notebooks) for data analysis, including one to draw your own language trees from the word links. \nFor more detail, see the LREC [http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.392.pdf paper]: *Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB 2.0.* 
 
 
-== Software
+=== Software
 - [https://github.com/clefourrier/PLexGen PLexGen]: If you want to try conlanging, you can with PLexGen, my phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications! (Only needs Python)
 - [https://gitlab.inria.fr/medmospy/medea MEDeA] (Multiway Encoder Decoder Architecture): Fully parametrizable software for multilingual-translation architectue experiments on small datasets. Can also be used in historical linguistics for cognate prediction. (Python, PyTorch)
-~~~
