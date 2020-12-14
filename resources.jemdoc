@@ -1,20 +1,13 @@
 
-= Featured publications
+= NLP Resources
+=== Publications
 See [https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en google scholar] or
 [https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Cl%C3%A9mentine%2C+Fourrier&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=../css/VisuRubriqueEncadre.css hal] for a complete list of my publications.
 
-=== Using neural networks for historical linguistics
-- Clémentine Fourrier, Benoît Sagot. *Comparing Statistical and Neural Models for Learning Sound Correspondences.* /LT4HALA 2020 : First Workshop on Language Technologies for Historical and Ancient Languages/, May 2020, Marseille, France.
-\n\[[http://www.lrec-conf.org/proceedings/lrec2020/workshops/LT4HALA/pdf/2020.lt4hala-1.12.pdf Paper], [https://github.com/clefourrier/PLexGen Software]\]
-
-- Clémentine Fourrier. *Évolution phonétique des langues et réseaux de neurones : travaux préliminaires.* /JEP-TALN-RECITAL 2020 - 33ème Journées d’Études sur la Parole, 27ème Conférence sur le Traitement Automatique des Langues Naturelles, 22ème Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues/, Jun 2020, Nancy, France. pp.110-122.
-\n\[[https://www.aclweb.org/anthology/2020.jeptalnrecital-recital.9/ Paper], [https://videos.univ-lorraine.fr/index.php?act=view&id=9730 Presentation], [https://videos.univ-lorraine.fr/video.php?id=9730 Talk]\]
-
-= Ressources
 === Database
 - [https://github.com/clefourrier/EtymDB EtymDB2]: Fine grained etymological database, automatically extracted from a 2019 Wiktionary dump, which differentiates between inheritance, cognacy, borrowing, and different types of composition. \nIt is provided with several scripts (as Jupyter notebooks) for data analysis, including one to draw your own language trees from the word links. \nFor more detail, see the LREC [http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.392.pdf paper]: *Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB 2.0.* 
 
 
 === Software
 - [https://github.com/clefourrier/PLexGen PLexGen]: If you want to try conlanging, you can with PLexGen, my phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications! (Only needs Python)
-- [https://gitlab.inria.fr/medmospy/medea MEDeA] (Multiway Encoder Decoder Architecture): Fully parametrizable software for multilingual-translation architectue experiments on small datasets. Can also be used in historical linguistics for cognate prediction. (Python, PyTorch)
+
