@@ -11,7 +11,8 @@ body {
 	font-family: sans-serif;
 	font-size: 12px;
 	padding-bottom: 8px;
-	margin: 0;
+	margin: 4;
+	line-height: 20px;
 }
 
 #layout-menu {
@@ -148,6 +149,14 @@ h3 {
 	color: #0073ff;
 	font-size: 130%;
 	border-bottom: none;
+}
+
+h4 {
+	margin-top: 0.7em;
+	margin-bottom: 0.3em;
+	padding-bottom: 0.2em;
+	line-height: 1.0;
+	padding-top: 0.5em;
 }
 
 p {
