@@ -1,2 +1,2 @@
 # Build me with 
-`pandoc -s 0* -c website.css -o index_test.html --metadata title-meta="Clementine Fourrier`
+`pandoc -s 0* -c website.css -o index.html --metadata title-meta="Clementine Fourrier`
