@@ -1,22 +1,35 @@
-% Clémentine Fourrier <img src="img/logo.png" width=40px class="aligncenter">
+% Clémentine Fourrier
+
+---
+toc: true
+include-before: |
+	<div class="topnav">
+	  <a><img src="img/logo.png" width=40px class="aligncenter"></a>
+	  <a href="#who">Who am I?</a>
+	  <a href="#research">Research</a>
+	  <a href="#resources">Resources</a>
+	  <a href="#outreach">Outreach</a>
+	  <a href="#community">Community</a>
+	</div> 
+---
+
 
 ## Welcome!
-<img src="img/me.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris) working on cognate prediction with neural networks,  
-and low-resource neural machine translation architectures.  
+<img src="img/me.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction  
+with neural networks, and low-resource neural machine translation architectures.  
+
 I worked as a **software engineer** from 2015 to 2019.
 
-I enjoy programming, and am interested in outreach (mostly towards girls), making science understandable, and delicious food.  
-
-**Research topics**: machine learning, low resource NMT, computational historical linguistics, cognate prediction
+I enjoy programming, and am interested in making science understandable, books and delicious food.  
 
 ### Contact: 
-You can reach me at `myfirstname dot mylastname at inria dot fr`, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/).
+You can reach me at *myfirstname dot mylastname at inria dot fr*, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/).
 
 ## About this site
 This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  
 I use markdown and pandoc.
 
-# Who am I ?
+# Who am I ? {#who}
 An engineer at heart.  
 My motto would either be: "So much to do, so little time" or "Let me read all the books".
 

@@ -6,46 +6,50 @@ table#tlayout {
 }
 
 body {
-	background: white;
-	/*font-family: Georgia, serif; */
+	background: #000026; /*#000d1a;*/ 
 	font-family: sans-serif;
 	font-size: 12px;
 	padding-bottom: 8px;
 	margin: 4;
 	line-height: 20px;
+	color: white;
+	/*word-wrap:break-word; 
+	max-width:1000px;*/
 }
 
-#layout-menu {
-    background: orange;/* #fa625f; */
-	font-size: 1.0em;
-	width: auto;
-	white-space: nowrap;
-    text-align: left;
-    vertical-align: top;
-    color:black;
-    padding-left: 1em;
-    padding-right: 1.5em;
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black; #00003f; /*#fef8ee; /*#00004c;*/
+  overflow: hidden;
+  line-height: 1.0;
+  border-bottom: 2px solid darkorange;
+  border-top: 2px solid darkorange;
+
 }
 
-#layout-menu td {
-	background: #f4f4f4;
-    vertical-align: top;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: center;
+  color: darkorange;
+  text-align: center;
+  vertical-align: center;
+  margin-top: 5px;
+  padding: 2px 16px;
+  text-decoration: white;
+  font-size: 17px;
+  display: inline-block;
 }
 
-#layout-content {
-	padding-top: 1.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
-    border: none;
-    background: white;
-    text-align: left;
-    vertical-align: top;
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: white;
 }
 
-#layout-menu a {
-	line-height: 1.5em;
-	margin-left: 0.5em;
-	color:black;
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+  vertical-align: center;
 }
 
 tt {
@@ -64,32 +68,6 @@ a, a > tt {
 
 a:hover {
 	border-bottom: 1px #0074D9 dotted;
-}
-
-#layout-menu a.current:link, #layout-menu a.current:visited {
-	color: black;
-}
-#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color:#838383;
-	text-decoration: none;
-}
-#layout-menu a:hover {
-	text-decoration: none;
-	border-bottom: 1px white dotted;
-}
-
-div.menu-category {
-	border-bottom: 1px solid black;
-	margin-top: 0.8em;
-	padding-top: 0.2em;
-	padding-bottom: 0.1em;
-	color: black;
-}
-
-div.menu-item {
-	padding-left: 16px;
-	text-indent: -16px;
-	margin-top: 30px;
 }
 
 div#toptitle {
@@ -125,13 +103,13 @@ h1, h2, h3 {
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #aaaaaa;
+	border-bottom: 1px solid white;
 	font-family: monospace;
 }
 
 h1 {
 	color: darkorange;
-	font-size: 200%;
+	font-size: 220%;
 }
 
 h2 {
@@ -146,12 +124,13 @@ h2 + h3 {
 }
 
 h3 {
-	color: #0073ff;
+	color: #f5a45e; /*#0073ff;*/
 	font-size: 130%;
 	border-bottom: none;
 }
 
 h4 {
+	color: #f8bf8e; /*#0073ff;*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -232,7 +211,6 @@ ol {
 li p, dd p {
 	margin-bottom: 0.3em;
 }
-
 
 ol ol {
 	list-style-type: lower-alpha;
@@ -405,7 +383,7 @@ table.imgtable, table.imgtable td {
     padding: 1px;
     display: none;
     background: white;
-	font-family: Arial, serif;
+	font-family: monospace; /*Arial, serif;*/
 	padding-bottom: 8px;
 	margin: 0;
 }

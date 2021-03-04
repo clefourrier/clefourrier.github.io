@@ -1,4 +1,4 @@
-# Other cool things:
+# Other cool things: {#community}
 
 ### Teaching
 - **TA for M1/M2 students - "Programming good practices using Python" [Ecole des Ponts Paris Tech](http://www.enpc.fr/)**
@@ -16,7 +16,5 @@
 - **Software dev**:
     - Creation of [CondALPI](https://gitlab.inria.fr/almanach/alpi/-/tree/condalpi CondALPI), a perl/conda installer for the ALPI pipeline, developed for the [EDS-COVID Task Force](https://eds.aphp.fr/covid-19) 
 
-### Talks at conferences and seminars
-- 05/2020: TALN-RECITAL: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))
-- 02/2020: Inria, ALMAnaCH seminar: *Learning Sound Correspondences: What about Neural Networks?*
+
 
