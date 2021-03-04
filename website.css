@@ -6,7 +6,7 @@ table#tlayout {
 }
 
 body {
-	background: #000026; /*#000d1a;*/ 
+	background: black; /*#000d1a;*/ 
 	font-family: sans-serif;
 	font-size: 12px;
 	padding-bottom: 8px;
@@ -19,7 +19,7 @@ body {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: black; #00003f; /*#fef8ee; /*#00004c;*/
+  background-color: #000026; 
   overflow: hidden;
   line-height: 1.0;
   border-bottom: 2px solid darkorange;
@@ -30,7 +30,7 @@ body {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: center;
-  color: darkorange;
+  color: #f5a45e;
   text-align: center;
   vertical-align: center;
   margin-top: 5px;
