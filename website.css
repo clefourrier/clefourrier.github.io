@@ -1,4 +1,7 @@
 /* Default css file for my personal website. */
+html {
+    height: 100%;
+}
 
 body {
 	background: black; /*#000d1a;*/ 
