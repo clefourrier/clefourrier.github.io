@@ -1,10 +1,12 @@
+
+
 # Outreach
-I take part in outreach events, directed mostly towards girls, to encourage them to overcome stereotypes and engage in long scientific studies  
+I take part in outreach events, directed mostly towards girls, to encourage them to overcome stereotypes and engage in long scientific studies 
 because science is awesome!
 
 ### STEM for girls
 #### Organisation of the Young Women Mathematician and Computer Scientists Days (Inria Paris)
-During these two days, high school girls discover how to do research in mathematics by working on challenging open problem under supervision,  
+During these two days, high school girls discover how to do research in mathematics by working on challenging open problem under supervision, 
 attend talks by women scientists and meet women Ph.D. and post-docs, to discover possible futures in maths and computer science.
 
 - 2020: Designed, then fully organised and hosted the hybrid Inria Paris 2020 event, with the help of [Eloise Berthier](https://www.di.ens.fr/eloise.berthier/index.html). 

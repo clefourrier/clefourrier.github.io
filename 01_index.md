@@ -4,19 +4,18 @@
 toc: true
 include-before: |
 	<div class="topnav">
-	  <a><img src="img/logo.png" width=40px class="aligncenter"></a>
-	  <a href="#who">Who am I?</a>
-	  <a href="#research">Research</a>
-	  <a href="#resources">Resources</a>
-	  <a href="#outreach">Outreach</a>
-	  <a href="#community">Community</a>
+	  <a href="index.html"><img src="img/logo.png" width=40px class="aligncenter"> </a>
+	  <a href="index.html">Who am I?</a>
+	  <a href="index.html#research">Research</a>
+	  <a href="index.html#resources">Resources</a>
+	  <a href="index.html#outreach">Outreach</a>
+	  <a href="index.html#community">Community</a>
 	</div> 
 ---
 
 
 ## Welcome!
-<img src="img/me.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction  
-with neural networks, and low-resource neural machine translation architectures.  
+<img src="img/me.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks, and low-resource neural machine translation architectures.  
 
 I worked as a **software engineer** from 2015 to 2019.
 

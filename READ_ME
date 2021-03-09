@@ -1,2 +1,12 @@
 # Build me with 
-`pandoc -s 0* -c website.css -o index.html --metadata title-meta="Clementine Fourrier`
+```
+pandoc -s 01* -c website.css -o index.html --metadata title-meta="Clementine Fourrier"
+pandoc -s 02* -c website.css -o resources.html --metadata title-meta="CleFourrier - Resources"
+pandoc -s 03* -c website.css -o outreach.html --metadata title-meta="CleFourrier - Outreach"
+pandoc -s 04* -c website.css -o community.html --metadata title-meta="CleFourrier - Community"
+```
+
+or 
+```
+pandoc -s 0* -c website.css -o index.html --metadata title-meta="Clementine Fourrier"
+```

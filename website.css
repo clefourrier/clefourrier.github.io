@@ -400,7 +400,7 @@ display:none;
 }
 #res_script{
 	font-size:10.5px;
-	font-family: arial, verdana, sans-serif;
+	font-family: monospace;
 	color:darkorange;
 	width:100%;
 }
@@ -410,19 +410,18 @@ display:none;
     font-weight:bold;
     color:darkorange;
     font-size:1.7em;
-    margin:0 0 1.5em 0;
+/*    margin:0 0 1.5em 0;*/
 }
 #res_script .SousRubrique {
     font-weight:bold;
     font-size:1.2em;
-    margin:1.5em 0;
-/* background:url(../images/puce_triangle_noir_medium_bottom.png) no-repeat left 6px;*/
+    /*margin:1.5em 0;*/
     padding-left:12px;
     color: orange;
 }
 #res_script dl{
     clear:both;
-    margin:0 0 1em 15px ;
+    /*margin:0 0 1em 15px ;*/
     overflow:hidden;
 }
 #res_script dt{
@@ -430,17 +429,6 @@ display:none;
 }
 #res_script dd{
     margin-left: 0;
-}
-#res_script .Vignette{
-  float: left;
-  clear:left;
-  padding-right:0em;
-  margin-left:0.5em;
-}
-#res_script .Vignette img{
-    background:none repeat scroll 0 0 #FFFFFF;
-    border:1px solid #CCCCCC;
-    padding:2px;
 }
 
 #res_script .Titre{
@@ -459,16 +447,21 @@ display:none;
 }
 #res_script .Auteurs{
     color:white;
-    margin-left:0.5em; /*0.7em;*/
+    margin-left:10%; /*0.7em;*/
+    margin-bottom:0em; /*0.5em;*/
 }
 #res_script .Detail{
-    margin-left:0.5em; /*0.5em;*/
+    margin-left:10%; /*0.5em;*/
+    margin-bottom:0em; /*0.5em;*/
 }
 #res_script .Fichier_joint a{
     text-decoration:none;
-    padding:0 0 0 0; /* 0.5em 0 0;*/
+    margin-left:10%; /*0.5em;*/
+    margin-bottom:0em; /*0.5em;*/
 }
 .ValeurRes a{
 	color:white;
 	text-decoration:none;
+    margin-left:10%; /*0.5em;*/
+    margin-bottom:0em; /*0.5em;*/
 }

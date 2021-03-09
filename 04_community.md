@@ -1,3 +1,5 @@
+
+
 # Other cool things: {#community}
 
 ### Teaching
@@ -14,7 +16,7 @@
     - ACL 2020 [conference website](https://github.com/acl-org/acl-2020-virtual-conference)
 
 - **Software dev**:
-    - Creation of [CondALPI](https://gitlab.inria.fr/almanach/alpi/-/tree/condalpi CondALPI), a perl/conda installer for the ALPI pipeline, developed for the [EDS-COVID Task Force](https://eds.aphp.fr/covid-19) 
+    - Creation of [CondALPI](https://gitlab.inria.fr/almanach/alpi/-/tree/condalpi), a perl/conda installer for the ALPI pipeline, developed for the [EDS-COVID Task Force](https://eds.aphp.fr/covid-19) 
 
 
 
