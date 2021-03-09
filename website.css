@@ -391,8 +391,10 @@ table.imgtable, table.imgtable td {
 }
 #res_script {
 	border:0;
-	background-color:#000026;
+	background-color:black;
 	color:white;
+	border-bottom:1px solid #CCC;
+
 }
 
 #res_script dt {
@@ -405,8 +407,6 @@ table.imgtable, table.imgtable td {
 	width:100%;
 }
 #res_script .Rubrique{
-	border-bottom:1px solid #CCC;
-	padding-bottom:0.2em;
     font-weight:bold;
     color:darkorange;
     font-size:1.7em;
@@ -428,7 +428,7 @@ table.imgtable, table.imgtable td {
     display:none;
 }
 #res_script dd{
-    margin-left:3%; /*0.5em;*/
+    margin-left:4%; /*0.5em;*/
     margin-bottom:0em; /*0.5em;*/
 }
 
@@ -437,7 +437,7 @@ table.imgtable, table.imgtable td {
     color:#f5a45e;
     font-size:1.1em;
     margin-bottom:0.3em; /*0.5em;*/
-    margin-left:1.5%; /*0.7em;*/
+    margin-left:2%; /*0.7em;*/
 }
 #res_script .Titre a{
     color:#f5a45e;
