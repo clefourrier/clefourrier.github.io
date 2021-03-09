@@ -393,8 +393,6 @@ table.imgtable, table.imgtable td {
 	border:0;
 	background-color:black;
 	color:white;
-	border-bottom:1px solid #CCC;
-
 }
 
 #res_script dt {
@@ -402,7 +400,7 @@ table.imgtable, table.imgtable td {
 }
 #res_script{
 	font-size:10.5px;
-	font-family: monospace;
+	font-family: sans-serif;
 	color:darkorange;
 	width:100%;
 }
@@ -410,9 +408,12 @@ table.imgtable, table.imgtable td {
     font-weight:bold;
     color:darkorange;
     font-size:1.7em;
+	font-family:monospace;
+
 /*    margin:0 0 1.5em 0;*/
 }
 #res_script .SousRubrique {
+	font-family:monospace;
     font-weight:bold;
     font-size:1.2em;
     /*margin:1.5em 0;*/
