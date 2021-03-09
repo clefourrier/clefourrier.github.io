@@ -396,7 +396,7 @@ table.imgtable, table.imgtable td {
 }
 
 #res_script dt {
-display:none;
+    display:none;
 }
 #res_script{
 	font-size:10.5px;
@@ -436,6 +436,7 @@ display:none;
     color:#f5a45e;
     font-size:1.1em;
     margin-bottom:0.3em; /*0.5em;*/
+    margin-left:5%; /*0.7em;*/
 }
 #res_script .Titre a{
     color:#f5a45e;
@@ -446,6 +447,11 @@ display:none;
     text-decoration:underline;
 }
 #res_script .Auteurs{
+    color:white;
+    margin-left:10%; /*0.7em;*/
+    margin-bottom:0em; /*0.5em;*/
+}
+#res_script .article{
     color:white;
     margin-left:10%; /*0.7em;*/
     margin-bottom:0em; /*0.5em;*/
