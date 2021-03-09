@@ -459,10 +459,10 @@ display:none;
 }
 #res_script .Auteurs{
     color:white;
-    margin-bottom:0; /*0.7em;*/
+    margin-left:0.5em; /*0.7em;*/
 }
 #res_script .Detail{
-    margin-bottom:0em; /*0.5em;*/
+    margin-left:0.5em; /*0.5em;*/
 }
 #res_script .Fichier_joint a{
     text-decoration:none;
