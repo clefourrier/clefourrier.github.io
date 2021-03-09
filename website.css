@@ -383,16 +383,15 @@ table.imgtable, table.imgtable td {
 	margin: 0;
 }
 
-/*CSS for bib frame */
-/* classe css de la page*/
+/* ---------------- CSS for bib frame */
 
 #res_script p, #res_script dl, #res_script dt, #res_script dd, #res_script a   {
-	font-family:arial,verdana,sans-serif;
-	color: #363842;
+	font-family:monospace;
+	color: white;
 }
 #res_script {
 	border:0;
-	background-color:black;
+	background-color:#000026;
 	color:white;
 }
 
@@ -417,9 +416,9 @@ display:none;
     font-weight:bold;
     font-size:1.2em;
     margin:1.5em 0;
-    background:url(../images/puce_triangle_noir_medium_bottom.png) no-repeat left 6px;
+/* background:url(../images/puce_triangle_noir_medium_bottom.png) no-repeat left 6px;*/
     padding-left:12px;
-    color: #363842;
+    color: white;
 }
 #res_script dl{
     clear:both;
@@ -443,7 +442,7 @@ display:none;
     border:1px solid #CCCCCC;
     padding:2px;
 }
-
+/* quand il y a affichage de vignette 
 #res_script .NoticeResAvecVignette {
 	border: 0;
 	padding-bottom: 0.5em;
@@ -452,7 +451,7 @@ display:none;
 
 #res_script .ChampResAvecVignette {
 	display:none;
-width: 15%;
+	width: 15%;
 	text-align:left;
 	font-size:0.9em;
 	color:#58529F;
@@ -462,7 +461,6 @@ width: 15%;
 	padding: 0em;
 	margin-left:120px; 
 }
-/* quand il y a affichage de vignette 
 #res_script .ValeurResAvecVignette {
 	margin-left:120px; 
 	margin-bottom: 0em;
