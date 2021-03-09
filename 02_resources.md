@@ -6,7 +6,7 @@
 Shareable list on [google scholar](https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en) or
 [hal](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Cl%C3%A9mentine%2C+Fourrier&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=../css/VisuRubriqueEncadre.css).
 
-<object style="width:100%;height:300px;margin-bottom:0.5em" type="text/html" data="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=cl%C3%A9mentine%2C+fourrier&annee_publideb=2020&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://clefourrier.github.io/website.css"></object>
+<object style="width:100%;height:100vh;margin-bottom:0.5em" type="text/html" data="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=cl%C3%A9mentine%2C+fourrier&annee_publideb=2020&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://clefourrier.github.io/website.css"></object>
 
 ### Talks at conferences and seminars
 - 05/2020: TALN-RECITAL: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))

@@ -386,13 +386,15 @@ table.imgtable, table.imgtable td {
 /* ---------------- CSS for bib frame */
 
 #res_script p, #res_script dl, #res_script dt, #res_script dd, #res_script a   {
-	font-family:monospace;
+	font-family:sans-serif;
 	color: white;
+    margin-bottom:0em; /*0.5em;*/
 }
 #res_script {
 	border:0;
 	background-color:black;
 	color:white;
+    margin-bottom:0em; /*0.5em;*/
 }
 
 #res_script dt {
@@ -403,6 +405,7 @@ table.imgtable, table.imgtable td {
 	font-family: sans-serif;
 	color:darkorange;
 	width:100%;
+    height : 100%;
 }
 #res_script .Rubrique{
     font-weight:bold;
@@ -417,7 +420,7 @@ table.imgtable, table.imgtable td {
     font-weight:bold;
     font-size:1.2em;
     /*margin:1.5em 0;*/
-    padding-left:0.5%;
+    padding-left:1%;
     color: orange;
 }
 #res_script dl{
@@ -430,15 +433,14 @@ table.imgtable, table.imgtable td {
 }
 #res_script dd{
     margin-left:4%; /*0.5em;*/
-    margin-bottom:0em; /*0.5em;*/
 }
 
 #res_script .Titre{
+	font-family:monospace;
     font-weight:bold;
     color:#f5a45e;
     font-size:1.1em;
-    margin-bottom:0.3em; /*0.5em;*/
-    margin-left:2%; /*0.7em;*/
+    margin-left:2.5%; /*0.7em;*/
 }
 #res_script .Titre a{
     color:#f5a45e;
