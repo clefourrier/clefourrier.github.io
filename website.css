@@ -428,7 +428,8 @@ table.imgtable, table.imgtable td {
     display:none;
 }
 #res_script dd{
-    margin-left: 0;
+    margin-left:10%; /*0.5em;*/
+    margin-bottom:0em; /*0.5em;*/
 }
 
 #res_script .Titre{
@@ -448,26 +449,14 @@ table.imgtable, table.imgtable td {
 }
 #res_script .Auteurs{
     color:white;
-    margin-left:10%; /*0.7em;*/
-    margin-bottom:0em; /*0.5em;*/
 }
-#res_script .article{
+#res_script .Article{
     color:white;
-    margin-left:10%; /*0.7em;*/
-    margin-bottom:0em; /*0.5em;*/
-}
-#res_script .Detail{
-    margin-left:10%; /*0.5em;*/
-    margin-bottom:0em; /*0.5em;*/
 }
 #res_script .Fichier_joint a{
     text-decoration:none;
-    margin-left:10%; /*0.5em;*/
-    margin-bottom:0em; /*0.5em;*/
 }
 .ValeurRes a{
 	color:white;
 	text-decoration:none;
-    margin-left:10%; /*0.5em;*/
-    margin-bottom:0em; /*0.5em;*/
 }
