@@ -8,7 +8,8 @@
     - 2019-2020 Directed 4 practical work sessions and mentored 5 end of semester projects (mostly web and AI).
 
 ### Community service
-- **Conference reviewer**: ACL 2020
+- **Conference reviews**: 
+    - Subreviewer for ACL 2021, ACL 2020
 
 - **Website building**:
     - ALMAnaCH [team website](http://files.inria.fr/almanach/index-en.html) 

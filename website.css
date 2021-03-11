@@ -438,6 +438,10 @@ table.imgtable, table.imgtable td {
     margin-left:4%; /*0.5em;*/
 }
 
+#res_script .NoticeRes{
+
+}
+
 #res_script .Titre{
 	font-family:monospace;
     font-weight:bold;
