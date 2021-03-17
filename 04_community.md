@@ -3,10 +3,10 @@
 # Other cool things: {#community .ref}
 
 ### Teaching
-- **TA for M1/M2 students** - "Programming good practices using Python" [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
+- **TA for M1/M2 students** - "Programming good practices using Python" - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
     - 2020-2021 (13h) Directed 2 coding dojos with [Theodo](https://www.theodo.com/) and 4 practical work sessions. 
     - 2019-2020 (18h) Directed 4 practical work sessions and mentored 5 end of semester projects (mostly web and AI).
-- **Summer school instructor** - "Programming introduction in Python" [Highschool girls summer school @ESPCI](https://www.espci.fr/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
+- **Summer school instructor** - "Programming introduction in Python" - [Highschool girls summer school, ESPCI](https://www.espci.fr/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
 	- 2019 (3h) Co-directed an afternoon of Python introduction
 
 
