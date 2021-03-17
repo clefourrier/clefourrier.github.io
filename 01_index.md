@@ -3,8 +3,8 @@
 ---
 toc: true
 include-before: |
-	<div class="topnav">
-	  <a href="index.html"><img src="img/logo.png" width=40px class="aligncenter"> </a>
+	<div class="nav">
+	  <a href="index.html"><img class="my_logo aligncenter" src="img/logo.png" width=40px> </a>
 	  <a href="index.html">Who am I?</a>
 	  <a href="index.html#research">Research</a>
 	  <a href="index.html#resources">Resources</a>
@@ -15,20 +15,19 @@ include-before: |
 
 
 ## Welcome!
-<img src="img/me.png" alt="A photo of the website author: a woman with sunglasses, below medieval arches" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks, and low-resource neural machine translation architectures.  
-
+<img src="img/me.png" alt="A photo of the website author: a woman with sunglasses, below medieval arches" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
 I worked as a **software engineer** from 2015 to 2019.
 
-I enjoy programming, and am interested in making science understandable, books and delicious food.  
+I enjoy programming, books, improv theater and delicious food.  
 
 ### Contact: 
-You can reach me at *myfirstname dot mylastname at inria dot fr*, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/).
+You can reach me at *myfirstname dot mylastname at inria dot fr*, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/). If it's about outreach, ping me!
 
 ## About this site
 This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  
 I use markdown and pandoc.
 
-# Who am I ? {#who}
+# Who am I ? {#who .ref}
 An engineer at heart.  
 My motto would either be: "So much to do, so little time" or "Let me read all the books".
 

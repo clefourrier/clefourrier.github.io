@@ -1,21 +1,22 @@
 
-# Research 
+# Research {.ref}
 **Research topics**: machine learning, low resource NMT, computational historical linguistics, cognate prediction
 
 ### Publications
 Full page list on [google scholar](https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en) or
 [hal](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Cl%C3%A9mentine%2C+Fourrier&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=../css/VisuRubriqueEncadre.css).
 
+<div class="my_widget">
 Widget list below (please scroll):
 
 <IFRAME width="100%" height="300" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=cl%C3%A9mentine%2C+fourrier&annee_publideb=2020&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=https://clefourrier.github.io/website.css" FRAMEBORDER="1" ></IFRAME>
-
+</div>
 ### Talks at conferences and seminars
 - 05/2020: TALN-RECITAL: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))
 - 02/2020: Inria, ALMAnaCH seminar: *Learning Sound Correspondences: What about Neural Networks?*
 
 
-# NLP Resources {#resources}
+# NLP Resources {#resources .ref}
 ### Database
 #### EtymDB2 (an etymological database, [here](https://github.com/clefourrier/EtymDB)): 
 <img src="img/logos/etymdb2_logo.png" alt="The logo of EtymDB2: a tree sprouting of a database" width="65px" style="float: left; margin: 0 15px 0 0;"> Fine grained etymological database which differentiates between inheritance, cognacy, borrowing, and different types of composition.  

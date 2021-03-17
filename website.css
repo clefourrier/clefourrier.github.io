@@ -3,52 +3,85 @@ html {
     height: 100%;
 }
 
+
 body {
 	background: black; /*#000d1a;*/ 
 	font-family: sans-serif;
 	font-size: 12px;
 	padding-bottom: 8px;
-	margin: 4;
+	margin: 4px;
 	line-height: 20px;
 	color: white;
+	margin-top: 60px;
 	/*word-wrap:break-word; 
 	max-width:1000px;*/
 }
 
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #000026; 
-  overflow: hidden;
-  /*line-height: 1.0;
-  border-bottom: 2px solid #000026;
-  border-top: 2px solid #000026;*/
 
+.ref { padding-top: 60px; }
+
+.ref::before {
+  content: "";
+  display: block;
+  height: 60px; /* fixed header height*/
+  margin: -60px 0 0; /* negative fixed header height */
+}
+
+/* Add a black background color to the top navigation */
+.nav {
+  background-color: #000026; 
+  position: fixed;
+  width: 100%;
+  top: 0;
+  max-height: 60px;
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.nav a {
   float: center;
   color: #f5a45e;
   text-align: center;
   vertical-align: center;
-  margin-top: 5px;
-  padding: 2px 16px;
+  margin-top: 4px;
+  padding: 4px 16px;
   text-decoration: white;
   font-size: 17px;
   display: inline-block;
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.nav a:hover {
   color: white;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.nav a.active {
   background-color: #4CAF50;
   color: white;
   vertical-align: center;
 }
+
+@media (max-width:650px){
+    .nav a {
+        font-size:12px !important;
+        padding: 4px 4px;
+    }  
+
+    .my_logo{
+    	width: 20px;
+    }
+
+    .my_widget{
+    	display: none !important;
+    }
+}
+@media (max-width:370px){
+
+    .my_logo{
+    	display: none !important;
+    }
+}
+
 
 tt {
     background: #ffffdd;
@@ -102,12 +135,12 @@ h1, h2, h3 {
 	line-height: 1.0;
 	padding-top: 0.5em;
 	border-bottom: 1px solid white;
-	font-family: monospace;
 }
 
 h1 {
 	color: darkorange;
 	font-size: 220%;
+	font-family: monospace;
 }
 
 h2 {
