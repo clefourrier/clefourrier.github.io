@@ -12,20 +12,11 @@ body {
 	margin: 4px;
 	line-height: 20px;
 	color: white;
-	margin-top: 60px;
-	/*word-wrap:break-word; 
-	max-width:1000px;*/
 }
 
+.title{ display: hidden; padding-top: 0px; margin-top: 0px;}
 
 .ref { padding-top: 60px; }
-
-.ref::before {
-  content: "";
-  display: block;
-  height: 60px; /* fixed header height*/
-  margin: -60px 0 0; /* negative fixed header height */
-}
 
 /* Add a black background color to the top navigation */
 .nav {

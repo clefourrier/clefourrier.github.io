@@ -10,11 +10,12 @@ include-before: |
 	  <a href="index.html#resources">Resources</a>
 	  <a href="index.html#outreach">Outreach</a>
 	  <a href="index.html#community">Community</a>
+	  <a href="link_roll.html">Random</a>
 	</div> 
 ---
 
-
-## Welcome!
+# Clementine Fourrier
+## Welcome! 
 <img src="img/me.png" alt="A photo of the website author: a woman with sunglasses, below medieval arches" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
 I worked as a **software engineer** from 2015 to 2019.
 
