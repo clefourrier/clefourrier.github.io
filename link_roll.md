@@ -27,19 +27,30 @@ Start with Python, look at [their beginner's page](https://www.python.org/about/
 - [Wine and machine learning](https://pudding.cool/2021/03/wine-model)
 - What is a neural network? [The visual and interactive guide to neural networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
-### Understand papers
+### Understand NLP concepts
 #### What is an LSTM unit?
 - [LSTM visualisation](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-#### What is an encoder decoder?
+#### What is an encoder decoder - with attention?
 - Follow the paper, with a step by step implementation, in [the annotated encoder-decoder](https://bastings.github.io/annotated_encoder_decoder/)
 - Visualize the concepts in [the illustrated seq2seq model with attention](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-- Another attention [explanation](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 
-#### What is a transformer
+##### What is attention?
+- Another [attention explanation](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
+- [Comparing Luong's and Bahdanau's attentions](http://cnyah.com/2017/08/01/attention-variants/)
+
+#### What is a transformer?
 - Follow the paper, with a step by step implementation, in [the annotated transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - Visualize the concepts in [the illustrated transformer](http://jalammar.github.io/illustrated-transformer/)
 - Another explanation: [Transformers from scratch](http://peterbloem.nl/blog/transformers)
+
+#### Other resources
+##### NLP visualisation 
+- [Christopher Olah's blog](http://colah.github.io/)
+- [Jay Alammar's blog](http://jalammar.github.io/)
+	
+##### Understand papers
+- [The morning paper #Machine learning](https://blog.acolyer.org/tag/machine-learning/)
 
 # My toolbox
 ## Current tools
