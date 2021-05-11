@@ -16,8 +16,8 @@ attend talks by women scientists and meet women Ph.D. and post-docs, to discover
 I have been mentoring high school girls since Aug 2020 (via Animaths).
  
 #### Speed meetings to talk about STEM with teenage girls
-- For "Girls, maths and computer science: a luminous equation" (Jan 2021, @Online - Aug 2020, @Online - May 2020, @Sorbonne)
-- For "Young Women Mathematicians and Computer Scientists Days"  (Dec 2020, @ENS Paris/Online - Oct 2020, @Inria Paris/Online - Oct 2019, @Inria Paris)
+- For "Girls, maths and computer science: a luminous equation" (May 2021 @Online - Jan 2021 @Online - Aug 2020, @Online - May 2020 @Sorbonne)
+- For "Young Women Mathematicians and Computer Scientists Days"  (Dec 2020 @ENS Paris/Online - Oct 2020 @Inria Paris/Online - Oct 2019 @Inria Paris)
 
 ### Popularization
 - 2021, Mar (Article): Wrote the [featured article](https://www.js2-sciences.com/je-science-donc-j-ecris#mars-2021) for  **[Je science donc je suis](https://www.js2-sciences.com/)**, an online science popularization journal, on language models and text generation (French) 
