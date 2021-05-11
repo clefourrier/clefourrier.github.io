@@ -39,7 +39,7 @@ Details in our [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lr
 If you want to try conlanging, you can with PLexGen, my phonetic lexicon generator and sound change applier!  
 Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications! (Python)
 
-#### CopperMT - Cognate Prediction Per Machine Translation, [here](https://github.com/clefourrier/cognate-prediction):
+#### CopperMT - Cognate Prediction Per Machine Translation, [here](https://github.com/clefourrier/CopperMT):
 Scripts and algos to run cognate prediction tasks using MT (either MOSES for SMT or my multiway encoder decoder based on fairseq for NMT).
 Details in our [paper](): *Is Cognate Prediction a Machine Translation Task?* 
 
