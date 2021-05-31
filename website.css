@@ -52,6 +52,11 @@ body {
   vertical-align: center;
 }
 
+/* Right-aligned section inside the top navigation */
+.nav-right {
+  float: right;
+}
+
 @media (max-width:650px){
     .nav a {
         font-size:12px !important;

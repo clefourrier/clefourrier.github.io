@@ -1,6 +1,6 @@
 
 
-# Other cool things: {#community .ref}
+# Teaching and Volunteering: {#community .ref}
 
 ### Teaching
 - **TA for M1/M2 students** - "Programming good practices using Python" - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)

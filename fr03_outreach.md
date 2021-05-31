@@ -23,6 +23,6 @@ J'ai participé au mentorat de lycéenne depuis Aout 2020.
 - 2020, Jan (Discussion interactive): "La vie d'un ingénieur logiciel" - lors de l'action [Ingénieurs et Techniciens dans les Classes](https://www.cgenial.org/82-nos-actions/83-ingenieurs-et-techniciens-dans-les-classes), de CGénial, au Lycée Jean Moulin
 - 2019, Dec (Discussion interactive): Accueil de stagiaires de 3e pour parler de la vie d'un ingénieur - @Inria
 - 2019, Aou (Présentation): "Ingénieurs et informatique, du logiciel à la recherche" - lors de l'[école d'été pour lycéennes de l'ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
-- 2019, Aou (Tutorial de programmation): Direction d'une après midi d'introduction à la programmation - lors de l'[école d'été pour lycéennes de l'ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
+- 2019, Aou (Tutoriel de programmation): Direction d'une après midi d'introduction à la programmation en Python - lors de l'[école d'été pour lycéennes de l'ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
 - 2018, Dec (Discussion interactive): Accueil de stagiaires de 3e pour parler de la vie d'un ingénieur - @Inria
 

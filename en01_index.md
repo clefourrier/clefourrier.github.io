@@ -9,10 +9,11 @@ include-before: |
 	  <a href="index.html#research">Research</a>
 	  <a href="index.html#resources">Resources</a>
 	  <a href="index.html#outreach">Outreach</a>
-	  <a href="index.html#community">Service</a>
+	  <a href="index.html#community">Teaching/Volunteering</a>
 	  <a href="link_roll.html">Random</a>
-	  <a href="index_fr.html">Version française</a>
+	  <a class="nav-right" href="index_fr.html">🇫🇷</a>
 	</div> 
+
 ---
 
 # Clementine Fourrier

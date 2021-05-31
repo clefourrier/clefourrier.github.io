@@ -1,13 +1,13 @@
 
 
-# Autres choses chouettes: {#community .ref}
+# Enseignement et Volontariat: {#community .ref}
 
 ### Enseignement
 - **Chargée de TDs en école d'ingénieur (2A/3A)** - "Techniques de développement logiciel avec Python" - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
     - 2020-2021 (13h) Direction de deux dojos de code, en partenariat avec [Theodo](https://www.theodo.com/), et de 4 sessions de TDs. 
     - 2019-2020 (18h) Direction de 4 sessions de TDs et mentorat de 5 projets de fin de semestre (en web et IA principalement).
 
-### Service pour la communauté
+### Volontariat pour la communauté
 - **Relecture d'articles pour des conférences**: 
     - Relectrice secondaire (subreviewer) pour ACL 2021, ACL 2020
 

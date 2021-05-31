@@ -9,10 +9,10 @@ include-before: |
 	  <a href="index_fr.html#research">Recherche</a>
 	  <a href="index_fr.html#resources">Ressources</a>
 	  <a href="index_fr.html#outreach">Vulgarisation</a>
-	  <a href="index_fr.html#community">Service</a>
-	  <a href="link_roll.html">Random</a>
-	  <a href="index.html">English version</a>
+	  <a href="index_fr.html#community">Enseignement/Volontariat</a>
+      <a class="nav-right" href="index.html">🇬🇧</a>
 	</div> 
+
 ---
 
 # Clémentine Fourrier
@@ -20,7 +20,7 @@ include-before: |
 <img src="img/me.png" alt="A photo of the website author: a woman with sunglasses, below medieval arches" width="130px" style="float: left; margin: 0 15px 0 0;"> Je suis en **thèse** (dans l'équipe [ALMAnaCH](https://team.inria.fr/almanach/fr/) à [Inria Paris](https://www.inria.fr/centre/paris)), et je travaille en ce moment sur la prédiction de cognats avec des réseaux de neurones, ainsi que sur des architectures neuronales pour faire de la traduction de langues faiblement dotées.  
 J'ai précedemment travaillé comme **ingénieur logiciel** de 2015 à 2019.
 
-J'aime la programmation, les livres, le théâtre d'improvisation, et bien sûr la nourriture délicieuse.  
+Si je ne suis pas là, c'est que je programme ou je lis.  
 
 ### Contact: 
 Vous pouvez me contacter à *monprénom point monnom arobase inria point fr*, sur [Twitter](https://twitter.com/clefourrier), ou [LinkedIn](https://www.linkedin.com/in/clefourrier/). Si c'est pour de la vulgarisation, n'hésitez surtout pas!
