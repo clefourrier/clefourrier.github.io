@@ -28,6 +28,8 @@ Start with Python, look at [their beginner's page](https://www.python.org/about/
 - What is a neural network? [The visual and interactive guide to neural networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
 ### Understand NLP concepts
+- [Very intuitive course by Lena Voita](https://lena-voita.github.io/nlp_course.html)
+
 #### What is an LSTM unit?
 - [LSTM visualisation](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
