@@ -4,27 +4,31 @@
 I take part in outreach events, directed mostly towards girls, to encourage them to overcome stereotypes and engage in long scientific studies 
 because science is awesome!
 
-### STEM for girls with Animath
+### For high school girls with Animath
+Animath is a non-profit organization whose goal is to develop the passion of mathematics for everyone. Every year, tens of thousands of French high school students take part in activities organized by Animath: research workshops, summer camps, meeting with researchers, etc. 
+
+I take part specifically in actions organised for high school girls.
+
 #### Organisation of the Young Women Mathematician and Computer Scientists Days (Inria Paris)
 During these two days, high school girls discover how to do research in mathematics by working on challenging open problem under supervision, 
 attend talks by women scientists and meet women Ph.D. and post-docs, to discover possible futures in maths and computer science.
 
 - 2020: Designed, then fully organised and hosted the hybrid Inria Paris 2020 event, with the help of [Eloise Berthier](https://www.di.ens.fr/eloise.berthier/index.html). 
 - 2019: Co-organised the on-site edition with [Eloise Berthier](https://www.di.ens.fr/eloise.berthier/index.html) and [Matthieu Lequesne](https://who.paris.inria.fr/Matthieu.Lequesne/index.php).
-
-#### Mentoring
-I have been mentoring high school girls since Aug 2020.
  
 #### Speed meetings to talk about STEM with teenage girls
 - During "Girls, maths and computer science: a luminous equation" (May 2021 @Online - Jan 2021 @Online - Aug 2020, @Online - May 2020 @Sorbonne)
 - During "Young Women Mathematicians and Computer Scientists Days"  (Dec 2020 @ENS Paris/Online - Oct 2020 @Inria Paris/Online - Oct 2019 @Inria Paris)
 
-### Other popularization actions
-- 2021, Mar (Article): Wrote the [featured article](https://www.js2-sciences.com/je-science-donc-j-ecris#mars-2021) for  **[Je science donc je suis](https://www.js2-sciences.com/)**, an online science popularization journal, on language models and text generation (French) 
-- 2021, Mar (Talk): "AI and language: on what, how, what for?" - for the Mathematics week @Académie de Paris 
-- 2020, Jan (Interactive discussion): "Life as a software engineer" - with Engineers in the classroom @Lycée Jean Moulin
-- 2019, Dec (Interactive discussion): Welcomed 14/15 years old students to talk about life as an engineer - @Inria
-- 2019, Aug (Talk): "Engineers in CS, from software to research" - with Highschool girl students summer school @ESPCI
-- 2019, Aug (Programming tutorial): Directed an afternoon of Python - with Highschool girl students summer school @ESPCI
-- 2018, Dec (Interactive discussion): Welcomed 14/15 years old students to talk about life as an engineer - @Inria
+#### Mentoring
+I have been mentoring high school girls since Aug 2020, to support their reflexions about higher education choices, and discuss science more generally.
 
+<br/><br/>
+
+### For the general public and students
+From time to time, I present CS topics (AI, the CS field and jobs) to the general public through various means (talks, interactive discussions, articles, ...). 
+
+- 2021, Mar (Talk): "AI and language: on what, how, what for?" - for the [Mathematics week](https://www.ac-paris.fr/portail/jcms/p1_2303174/-mathematiques-et-societe) @Académie de Paris 
+- 2021, Mar (Article): Wrote the [featured article](https://www.js2-sciences.com/je-science-donc-j-ecris#mars-2021) for  **[Je science donc je suis](https://www.js2-sciences.com/)**, an online science popularization journal, on language models and text generation (French) 
+- 2020, Jan (Interactive discussion): "Life as a software engineer" - with [Engineers in the classroom](https://www.cgenial.org/82-nos-actions/83-ingenieurs-et-techniciens-dans-les-classes) @Lycée Jean Moulin
+- 2019, Aug (Interactive discussion): "Engineers in CS, from software to research" - for the [Highschool girl students summer school](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous) @ESPCI
