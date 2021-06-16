@@ -1,12 +1,12 @@
 
 
 # Vulgarisation {.ref}
-Je participe à de nombreux évènements de vulgarisation, principalement dirigés vers les filles, pour les encourager à dépasser les stéréotypes et s'engager dans des études scientifiques longues, parce que la science est un sujet fascinant!
+Je participe à des évènements de vulgarisation, principalement dirigés vers les filles, pour les encourager à dépasser les stéréotypes et s'engager dans des études scientifiques longues, parce que la science est un sujet fascinant!
 
-### Pour les lycéennes, avec l'association Animath
-Animath est une association dont le but est de favoriser le goût des mathématiques chez les jeunes. Tous les ans, des dizaines de milliers de lycéens et lycéennes participent à des actions organisées par Animath: ateliers de recherche, écoles d'été, rencontres avec des chercheurs, etc.
+### Pour les lycéennes, lors des actions "Filles, maths et informatique"
+Les actions ["Filles, maths et informatiques"](https://filles-et-maths.fr/) sont portées par deux associations: [Animath](https://animath.fr/), qui vise à favoriser le goût des mathématiques chez les jeunes, et [Femmes et Mathématiques](https://femmes-et-maths.fr/), qui agit pour la parité dans les métiers mathématiques et scientifiques.
 
-Je participe spécifiquement aux actions organisées pour les lycéennes.
+Dans le cadre de ma participation à ces actions (entre autres), j'ai [été auditée par l'Assemblée Nationale française en juin 2021](https://twitter.com/clefourrier/status/1402656409196679177), pour discuter stéréotypes, vulgarisation, et orientation scolaire.
 
 #### Organisation des Rendez Vous des Jeunes Mathématiciennes et Informaticiennes (à Inria Paris)
 Durant deux jours, des lycéennes découvrent comment faire de la recherche en mathématiques, en travaillant sur des problèmes ouverts complexes sous supervision, assistent à des présentations par des chercheuses, et rencontrent des jeunes femmes en thèse, post-doctorat, ou ingénieures, pour découvrir des futurs possibles en mathématiques et informatique.
