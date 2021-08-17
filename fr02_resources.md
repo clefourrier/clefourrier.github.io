@@ -15,6 +15,8 @@ Ci dessous, une liste widget (n'hésitez pas à faire défiler):
 ### Présentations
 
 #### Conférences et séminaires
+- 08/2021: ACL Findings: *Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?* ([Slides](https://d3smihljt9218e.cloudfront.net/lecture/26166/slideshow/4a2b9ebbfc0e00f0b33ea5d69cb949f4.pdf))
+- 08/2021: LChange'21 Workshop : *Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?* ([Poster](https://d3smihljt9218e.cloudfront.net/lecture/26166/poster_document/e107a37a833ef9d91fbb3e04ba658928.pdf))
 - 05/2020: TALN-RECITAL: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))
 - 02/2020: Inria, ALMAnaCH seminar: *Learning Sound Correspondences: What about Neural Networks?*
 

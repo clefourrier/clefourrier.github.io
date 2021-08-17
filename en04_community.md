@@ -14,7 +14,7 @@
 
 ### Community service
 - **Conference reviews**: 
-    - Subreviewer for ACL 2021, ACL 2020
+    - Subreviewer for EMNLP 2021, ACL 2021, ACL 2020
 
 - **Website building**:
     - ALMAnaCH [team website](http://files.inria.fr/almanach/index-en.html) 

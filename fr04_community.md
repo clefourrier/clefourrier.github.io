@@ -11,7 +11,7 @@
 
 ### Volontariat pour la communauté
 - **Relecture d'articles pour des conférences**: 
-    - Relectrice secondaire (subreviewer) pour ACL 2021, ACL 2020
+    - Relectrice secondaire (subreviewer) pour EMNLP 2021, ACL 2021, ACL 2020
 
 - **Développement de site internet**:
     - ALMAnaCH - [Site d'équipe](http://files.inria.fr/almanach/index-en.html) 
