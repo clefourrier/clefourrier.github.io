@@ -28,6 +28,7 @@ I have been mentoring high school girls since Aug 2020, to support their reflexi
 ### For the general public and students
 From time to time, I present CS topics (AI, the CS field and jobs) to the general public through various means (talks, interactive discussions, articles, ...). 
 
+- 2021, Sep (Conférence): "Research, how does it work?" - for the Sciences Counter, remotely with a high school class
 - 2021, Mar (Talk): "AI and language: on what, how, what for?" - for the [Mathematics week](https://www.ac-paris.fr/portail/jcms/p1_2303174/-mathematiques-et-societe) @Académie de Paris 
 - 2021, Mar (Article): Wrote the [featured article](https://www.js2-sciences.com/je-science-donc-j-ecris#mars-2021) for  **[Je science donc je suis](https://www.js2-sciences.com/)**, an online science popularization journal, on language models and text generation (French) 
 - 2020, Jan (Interactive discussion): "Life as a software engineer" - with [Engineers in the classroom](https://www.cgenial.org/82-nos-actions/83-ingenieurs-et-techniciens-dans-les-classes) @Lycée Jean Moulin

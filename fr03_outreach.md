@@ -26,6 +26,7 @@ Je mentore des lycéennes depuis aout 2020, pour les accompagner dans leurs réf
 ### Pour le grand public et les étudiants
 De temps en temps, je présente des sujets d'informatique (intelligence artificielle, métiers de l'informatique ...) à travers divers mediums (conférences, discussions interactives, articles, ...). 
 
+- 2021, Sep (Conférence): "La recherche, ça fonctionne comment?" - pour le Comptoir des Sciences, en visio conférence avec une classe de seconde.
 - 2021, Mar (Conférence): "IA et langage: sur quoi, comment, pourquoi?" - pour la [Semaine des Mathématiques](https://www.ac-paris.fr/portail/jcms/p1_2303174/-mathematiques-et-societe) de l'Académie de Paris 
 - 2021, Mar (Article): Ecriture de l'[article vedette](https://www.js2-sciences.com/je-science-donc-j-ecris#mars-2021) du journal du mois de **[Je science donc je suis](https://www.js2-sciences.com/)**, une association de vulgarisation scientifique, sur les modèles de langues et la génération automatique de texte 
 - 2020, Jan (Discussion interactive): "La vie d'un ingénieur logiciel" - lors de l'action [Ingénieurs et Techniciens dans les Classes](https://www.cgenial.org/82-nos-actions/83-ingenieurs-et-techniciens-dans-les-classes), de CGénial, au Lycée Jean Moulin
