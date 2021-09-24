@@ -17,7 +17,7 @@ include-before: |
 
 # Clémentine Fourrier
 ## Bienvenue! 
-<img src="img/me.png" alt="A photo of the website author: a woman with sunglasses, below medieval arches" width="130px" style="float: left; margin: 0 15px 0 0;"> Je suis en **thèse** (dans l'équipe [ALMAnaCH](https://team.inria.fr/almanach/fr/) à [Inria Paris](https://www.inria.fr/centre/paris)), et je travaille en ce moment sur la prédiction de cognats avec des réseaux de neurones, ainsi que sur des architectures neuronales pour faire de la traduction de langues faiblement dotées.  
+<img src="img/with_doge_small.png" alt="A photo of the website author, seen from behind in a field, and carrying a border collie pup (whose head is resting on their shoulder)" width="130px" style="float: left; margin: 0 15px 0 0;"> Je suis en **thèse** (dans l'équipe [ALMAnaCH](https://team.inria.fr/almanach/fr/) à [Inria Paris](https://www.inria.fr/centre/paris)), et je travaille en ce moment sur la prédiction de cognats avec des réseaux de neurones, ainsi que sur des architectures neuronales pour faire de la traduction de langues faiblement dotées.  
 J'ai précedemment travaillé comme **ingénieur logiciel** de 2015 à 2019.
 
 Si je ne suis pas là, c'est que je programme ou je lis.  
