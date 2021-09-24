@@ -18,13 +18,17 @@ include-before: |
 
 # Clementine Fourrier
 ## Welcome! 
-<img src="img/with_doge_small.png" alt="A photo of the website author, seen from behind in a field, and carrying a border collie pup (whose head is resting on their shoulder)" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
+<img src="img/with_doge_smol.png" alt="A photo of the website author, seen from behind in a field, and carrying a border collie pup (whose head is resting on their shoulder)" width="130px" style="float: left; margin: 0 15px 0 0;"> I am a **Ph.D student** (in the [ALMAnaCH team](https://team.inria.fr/almanach/fr/) at [Inria Paris](https://www.inria.fr/centre/paris)) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
 I worked as a **software engineer** from 2015 to 2019.
 
-I enjoy programming, books, improv theater and delicious food.  
+If I'm not here, I'm reading a book or coding somewhere.  
 
 ### Contact: 
-You can reach me at *myfirstname dot mylastname at inria dot fr*, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/). If it's about outreach, ping me!
+You can reach me at *myfirstname dot mylastname at inria dot fr*, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/). 
+
+If it's about outreach, ping me!
+\
+\
 
 ## About this site
 This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  

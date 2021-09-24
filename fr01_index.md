@@ -17,13 +17,17 @@ include-before: |
 
 # Clémentine Fourrier
 ## Bienvenue! 
-<img src="img/with_doge_small.png" alt="A photo of the website author, seen from behind in a field, and carrying a border collie pup (whose head is resting on their shoulder)" width="130px" style="float: left; margin: 0 15px 0 0;"> Je suis en **thèse** (dans l'équipe [ALMAnaCH](https://team.inria.fr/almanach/fr/) à [Inria Paris](https://www.inria.fr/centre/paris)), et je travaille en ce moment sur la prédiction de cognats avec des réseaux de neurones, ainsi que sur des architectures neuronales pour faire de la traduction de langues faiblement dotées.  
+<img src="img/with_doge_smol.png" alt="A photo of the website author, seen from behind in a field, and carrying a border collie pup (whose head is resting on their shoulder)" width="130px" style="float: left; margin: 0 15px 0 0;"> Je suis en **thèse** (dans l'équipe [ALMAnaCH](https://team.inria.fr/almanach/fr/) à [Inria Paris](https://www.inria.fr/centre/paris)), et je travaille en ce moment sur la prédiction de cognats avec des réseaux de neurones, ainsi que sur des architectures neuronales pour faire de la traduction de langues faiblement dotées.  
 J'ai précedemment travaillé comme **ingénieur logiciel** de 2015 à 2019.
 
-Si je ne suis pas là, c'est que je programme ou je lis.  
+Si je ne suis pas ici, je suis en train de programmer ou de lire quelque part.  
 
 ### Contact: 
-Vous pouvez me contacter à *monprénom point monnom arobase inria point fr*, sur [Twitter](https://twitter.com/clefourrier), ou [LinkedIn](https://www.linkedin.com/in/clefourrier/). Si c'est pour de la vulgarisation, n'hésitez surtout pas!
+Vous pouvez me contacter à *monprénom point monnom arobase inria point fr*, sur [Twitter](https://twitter.com/clefourrier), ou [LinkedIn](https://www.linkedin.com/in/clefourrier/). 
+
+Si c'est pour de la vulgarisation, n'hésitez surtout pas!
+\
+\
 
 ## A propos de ce site
 Ce site a été codé pour être statique et léger, pour des raisons d'écologie, d'accessibilité, et [pour ceci](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans).  
