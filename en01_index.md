@@ -50,7 +50,7 @@ My motto would either be: "So much to do, so little time" or "Let me read all th
 - neurodegenerative disease prediction from longitudinal data (@Brain and Spine Institute, 2017-2018)
 - natural language processing, mostly in translation and historical linguistics (@Inria Paris, 2018 - now)
 
-It's likely I'll learn new things again! (robotics maybe? or fluid mechanics? ¯\\_(ツ)_/¯ )
+It's likely I'll learn new things again! But what? ¯\\_(ツ)_/¯ 
 
 
 

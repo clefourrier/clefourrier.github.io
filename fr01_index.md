@@ -49,7 +49,7 @@ Ma devise serait probablement: "Tant de choses passionantes et si peu de temps" 
 - prédire des maladies neurodégénératives à partir de données longitudinales (@Institut du Cerveau et de la Moëlle Epinière, 2017-2018)
 - traitement automatiques des langues, principalement en traduction et linguistique historique (@Inria Paris, 2018-maintenant)
 
-Il est très probable que j'apprenne encore de nouvelles choses! (peut être en robotique? ou en méchanique des fluides? ¯\\_(ツ)_/¯ )
+Il est très probable que j'apprenne encore de nouvelles choses! Mais quoi? ¯\\_(ツ)_/¯ 
 
 
 
