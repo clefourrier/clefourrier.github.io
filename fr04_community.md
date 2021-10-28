@@ -4,10 +4,11 @@
 
 ### Enseignement
 - **Chargée de TDs en école d'ingénieur (2A/3A)** - "Techniques de développement logiciel avec Python" - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
-    - 2020-2021 (13h) Direction de deux dojos de code, en partenariat avec [Theodo](https://www.theodo.com/), et de 4 sessions de TDs. 
-    - 2019-2020 (18h) Direction de 4 sessions de TDs et mentorat de 5 projets de fin de semestre (en web et IA principalement).
+    - 2021 (3h) Encadrement d'un dojo de code, en partenariat avec [Theodo](https://www.theodo.com/). 
+    - 2020-2021 (13h) Encadrement de deux dojos de code, en partenariat avec [Theodo](https://www.theodo.com/), et de 4 sessions de TDs. 
+    - 2019-2020 (18h) Encadrement de 4 sessions de TDs et mentorat de 5 projets de fin de semestre (en web et IA principalement).
 - **Invitée d'une école d'été** - "Introduction à la programmation en Python" - [Ecole d'été pour lycéennes de l'ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
-    - 2019 (3h) Co-direction d'une après midi d'introduction à Python
+    - 2019 (3h) Co-encadrement d'une après midi d'introduction à Python
 
 ### Volontariat pour la communauté
 - **Relecture d'articles pour des conférences**: 

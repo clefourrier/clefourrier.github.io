@@ -27,7 +27,7 @@ Ci dessous, une liste widget (n'hésitez pas à faire défiler):
 - 02/2020: Inria, ALMAnaCH seminar: *Learning Sound Correspondences: What about Neural Networks?*
 
 #### Présentations de papiers pour un groupe d'étude du TAL
-- 10/2021: *Multilingual Agreement for Multilingual Neural Machine Translation - Yang et al 2021*
+- 10/2021: *Multilingual Agreement for Multilingual Neural Machine Translation - Yang et al 2021* ([Slides](https://drive.google.com/file/d/12FLg1FMxZLU76UtP5RIgf0NJWjx7kLmE/view?usp=sharing))
 - 02/2021: *On the Dangers of Stochastic Parrots: Can Language Models be Too Big - Bender et al 2021* ([Slides](https://drive.google.com/file/d/1q7_KMMTj4dPRD6si9OgIOT-GWujOv-8C/view?usp=sharing))
 - 05/2020: *Dataset for Temporal Analysis of English-French Cognates - Frossard et al 2020* ([Slides](https://drive.google.com/file/d/1puLEBVx-KhA28qXdxnJC8KZRTj9rWjep/view?usp=sharing))
 - 01/2020: *Universal Adversarial Triggers for Attacking and Analysing NLP - Wallace et al 2019* ([Slides](https://drive.google.com/file/d/1L-dfBzTV7Tsthv6FEOnvOqg4SyFQynan/view?usp=sharing))
