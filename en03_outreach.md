@@ -7,7 +7,7 @@ because science is awesome!
 ### For high school girls, during the "Girls, maths and computer sciences" actions
 The ["Girls, maths and computer sciences"](https://filles-et-maths.fr/) actions are carried out by two associations: [Animath](https://animath.fr/), encouraging young people to enjoy maths, through the organization of different events, and [Women and Mathematics](https://femmes-et-maths.fr/), working on reaching parity in math and science jobs.
 
-Because of my part in these actions (among others), I have been [audited by the French National Assembly in June 2021](https://twitter.com/clefourrier/status/1402656409196679177), to discuss outreach, stereotypes, and academic choices.
+Because of my part in these actions (among others), I have been [auditionned by the French National Assembly in June 2021](https://twitter.com/clefourrier/status/1402656409196679177), to discuss outreach, stereotypes, and academic choices.
 
 #### Organisation of the Young Women Mathematician and Computer Scientists Days (Inria Paris)
 During these two days, high school girls discover how to do research in mathematics by working on challenging open problem under supervision, 
