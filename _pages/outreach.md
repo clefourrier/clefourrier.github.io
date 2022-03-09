@@ -1,7 +1,6 @@
 ---
 permalink: /outreach.html
-title: "CFourrier
-excerpt: "Outreach"
+title: "Outreach"
 author_profile: true
 redirect_from: 
   - /outreach/
