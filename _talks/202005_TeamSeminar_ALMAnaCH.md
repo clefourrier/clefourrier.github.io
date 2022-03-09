@@ -4,6 +4,6 @@ collection: talks
 type: "Team Seminar"
 permalink: /talks/202005_TeamSeminar_ALMAnaCH
 venue: "ALMAnaCH Team Seminar"
-date: 2020-05-00
+date: 2020-05-01
 location: "Paris"
 ---
