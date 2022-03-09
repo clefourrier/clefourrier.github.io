@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Talk"
 permalink: /talks/TALN2020
 venue: "TALN-RECITAL 2020"
-date: 2020-05
+date: 2020-05-00
 location: "Online"
 url: https://videos.univ-lorraine.fr/video.php?id=9730
 ---

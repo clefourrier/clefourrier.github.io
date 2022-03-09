@@ -4,7 +4,7 @@ collection: talks
 type: "Study Group"
 permalink: /talks/202005_StudyGroup
 venue: "ALMAnaCH Paper Study Group"
-date: 2020-05
+date: 2020-05-00
 location: "Online"
 ---
 
