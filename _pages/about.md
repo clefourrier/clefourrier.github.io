@@ -15,19 +15,7 @@ I worked as a **software engineer** from 2015 to 2019.
 
 If I'm not here, I'm reading a book or coding somewhere.  
 
-### Social: 
-- Email: *myfirstname dot mylastname at inria dot fr* 
-- [Twitter](https://twitter.com/clefourrier)
-- [LinkedIn](https://www.linkedin.com/in/clefourrier/)
-- [Scholar profile](https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en)
-- [HAL profile](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Cl%C3%A9mentine%2C+Fourrier&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=../css/VisuRubriqueEncadre.css).
-
-
 If it's about outreach, ping me!
-
-## About this site
-This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  
-I use markdown and pandoc.
 
 # Who am I ? {#who .ref}
 An engineer at heart.  

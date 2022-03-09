@@ -1,9 +1,0 @@
----
-title: "Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?"
-collection: talks
-type: "Conference Talk"
-permalink: https://d3smihljt9218e.cloudfront.net/lecture/26166/poster_document/e107a37a833ef9d91fbb3e04ba658928.pdf
-venue: "L'Change 2021"
-date: 2021-08-01
-location: "Online"
----
