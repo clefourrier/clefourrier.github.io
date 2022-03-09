@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false #(default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Clémentine Fourrier"
   avatar           : "profile.png"
-  bio              : "NLP PhD student"
-  location         : "France, Inria Paris"
+  bio              : "NLP PhD student at Inria Paris"
+  location         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en"
   email            :

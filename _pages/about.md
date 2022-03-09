@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D student** at [Inria Paris](https://www.inria.fr/centre/paris) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
+I am a **Ph.D student** at [Inria Paris](https://www.inria.fr/centre/paris). I developed *state-of-the-art architectures for historical word reconstruction* (using methods inspired by low-resource MT), then interpreted and *probed* these models to understand if/which historical information is learned as a by-product. At the moment, I am studying the transferability of these techniques to *lexicon induction for low-resourced languages*.
 I worked as a **software engineer** from 2015 to 2019.
 
 If it's about outreach, ping me!
