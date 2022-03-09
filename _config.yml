@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clémentine Fourrier"
 title_separator          : "-"
 name                     : &name "Clémentine Fourrier"
-description              : &description "personal description"
+description              : &description "NLP PhD Student - Former software engineer"
 url                      : https://clefourrier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clefourrier/clefourrier.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -49,6 +49,34 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
 # Site Author
 author:
   name             : "Clémentine Fourrier"
@@ -60,18 +88,31 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=UiK-jPcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "clefourrier"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
   lastfm           :
   linkedin         : "clefourrier"
   orcid            : "https://orcid.org/0000-0001-6500-6030"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "clefourrier"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
   wikipedia        :
 
 
