@@ -11,13 +11,11 @@ author_profile: true
     - Directed 3 coding dojos. Directed and graded 8 work sessions between 2019 and 2021. 
     - Mentored weekly 5 end-of-semester projects. Evaluated 21 end-of-semester projects (report, code, oral presentation).
 - **Summer school instructor (3h)** - "Programming introduction in Python" - 2019 - [Highschool girls summer school, ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
-    - Co-directed an afternoon of Python introduction
 
 
 ## Community service
 - **Conference reviews**: 
-    - Reviewer for LChange 2022
-    - Subreviewer for EMNLP 2021, ACL 2021, ACL 2020
+    - (Sub)Reviewer: LChange 2022, EMNLP 2021, ACL 2021, ACL 2020
 
 - **Website building**:
     - ALMAnaCH [team website](http://files.inria.fr/almanach/index-en.html) 
