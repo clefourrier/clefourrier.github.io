@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CFourrier
+title: "CFourrier"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
