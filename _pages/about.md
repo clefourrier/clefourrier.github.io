@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CFourrier"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome! 
 I am a **Ph.D student** at [Inria Paris](https://www.inria.fr/centre/paris) currently working on cognate prediction with neural networks and low-resource neural machine translation architectures.  
 I worked as a **software engineer** from 2015 to 2019.
 
