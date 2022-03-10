@@ -113,7 +113,10 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
-
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "test.com"
 
 # Reading Files
 include:
