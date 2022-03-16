@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Scientific conferences
-- ACL 2021: *Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?* ([Slides](https://d3smihljt9218e.cloudfront.net/lecture/26166/slideshow/4a2b9ebbfc0e00f0b33ea5d69cb949f4.pdf))
-- LChange'21 Workshop : *Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?* ([Poster](https://d3smihljt9218e.cloudfront.net/lecture/26166/poster_document/e107a37a833ef9d91fbb3e04ba658928.pdf))
-- TALN-RECITAL 2020: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))
+- 2022 ACL: *Probing Multilingual Cognate Prediction Models* ([Poster](ongoing))
+- 2021 ACL: *Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?* ([Slides](https://d3smihljt9218e.cloudfront.net/lecture/26166/slideshow/4a2b9ebbfc0e00f0b33ea5d69cb949f4.pdf)), also presented as a [Poster](https://d3smihljt9218e.cloudfront.net/lecture/26166/poster_document/e107a37a833ef9d91fbb3e04ba658928.pdf) at the L'Change worshop
+- 2020 TALN-RECITAL: *Evolution phonologique des langues et réseaux de neurones* ([Talk](https://videos.univ-lorraine.fr/video.php?id=9730))
 
 ## Team Seminars
-- Inria, ALMAnaCH team, 2020: *Learning Sound Correspondences: What about Neural Networks?*
+- 2020 Inria, ALMAnaCH team: *Learning Sound Correspondences: What about Neural Networks?*
 
 
 ## Paper study group presentations

@@ -7,8 +7,9 @@ redirect_from:
 
 ---
 
-I take part in outreach events, directed mostly towards girls, to encourage them to overcome stereotypes and engage in long scientific studies 
-because science is awesome!
+During my PhD, I have been heavily involved in outreach, especially to encourage high school girls to join STEM fields. Since 2019, I organised two 2-days outreach events (RJMI Inria Paris), gave 3 talks, took part in several interactive discussions with high school students on computer science, and in 9 speed meetings. I was invited to talk at the [French Assemblée Nationale in June 2021](https://twitter.com/clefourrier/status/1402656409196679177) about the impact of outreach on gender stereotypes. More detail below.
+
+|<img src="/images/outreach/JFMI2021.jpg" alt="Presenting for Girls and Maths, a luminous equation">| <img src="/images/outreach/RJMI2020.jpg" alt="Talking about career choices with high school girls during the RJMI"> | <img src="/images/outreach/SemaineDesMaths2021.jpg" alt="Presenting for the math week"> | 
 
 ## "Girls, maths and computer sciences" actions
 The ["Girls, maths and computer sciences"](https://filles-et-maths.fr/) actions are carried out by two associations: [Animath](https://animath.fr/), encouraging young people to enjoy maths, through the organization of different events, and [Women and Mathematics](https://femmes-et-maths.fr/), working on reaching parity in math and science jobs.
@@ -21,10 +22,6 @@ During these two days, high school girls discover how to do research in mathemat
  
 ### Speed meetings to talk about STEM with teenage girls
 Fev 2022 (Online, JFMI); Oct 2021 (Inria Paris, RJMI); May 2021 (Online, JFMI); Jan 2021 (Online, JFMI); Dec 2020 (ENS Paris, RJMI); Oct 2020 (Inria Paris, RJMI); Aug 2020 (Online, JFMI); May 2020 (Sorbonne, JFMI); Oct 2019 (Inria Paris, RJMI)
-
-## Resources and references
-I have been [auditionned by the French National Assembly in June 2021](https://twitter.com/clefourrier/status/1402656409196679177), to discuss outreach, stereotypes, and academic choices, and compiled a list of useful references when thinking about girls/sciences/stereotypes.
-
 
 ## General outreach talks
 - 2021, Dec (Talk): *Research in NLP* - for Girls and Maths, a luminous equation (Institut Henri Poincarré)
