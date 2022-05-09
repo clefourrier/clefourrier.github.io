@@ -24,14 +24,17 @@
 
     @include breakpoint($x-large) {
       max-width: $x-large;
+  background-color:#151B54;
     }
 
     nav {
       z-index: 10;
+  background-color:#151B54;
     }
 
     a {
       text-decoration: none;
+  background-color:#151B54;
     }
   }
 }
@@ -44,6 +47,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+  background-color:#151B54;
   }
 }
 
@@ -56,5 +60,6 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  background-color:#151B54;
   }
 }
