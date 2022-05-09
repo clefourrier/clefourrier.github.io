@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome! 
 I am a last year **Ph.D student** at [Inria Paris](https://www.inria.fr/centre/paris), using neural networks for historical low-resourced situations. 
 
 My research focuses on the evolution of words through time, such as: 
