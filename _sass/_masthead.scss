@@ -11,6 +11,9 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  background-color:#151B54;
+  color: orange;
+
   &__inner-wrap {
     @include container;
     @include clearfix;
