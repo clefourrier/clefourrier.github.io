@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NLP resources"
+title: "NLP Resources"
 permalink: /software/
 author_profile: true
 ---
