@@ -37,6 +37,7 @@
 }
 
 .masthead__menu {
+  background-color:#151B54;
 
   ul {
     margin: 0;
@@ -50,11 +51,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color:#151B54;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-    background-color:#151B54;
-    color: orange;
   }
 }
