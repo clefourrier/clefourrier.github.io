@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-- **Teaching assistant for M1/M2 students (36h)** - "Programming good practices using Python" - 2019-2021 - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
-    - On programming good practices, with Python (OOP, coding style, testing, design patterns, GUI). I directed 3 coding dojos, as well as 8 work sessions, mentored weekly 5 end-of-semester projects. Evaluated 21 end-of-semester projects (report, code, oral presentation).
-- **Summer school instructor (3h)** - "Programming introduction in Python" - 2019 - [Highschool girls summer school, ESPCI](https://www.espci.psl.eu/fr/actualites/2019/lyceennes-une-ecole-d-ete-juste-pour-vous)
-
+## Teaching (Master students)
+- **Teaching assistant (36h)** - 2019-2021 - [Ecole des Ponts Paris Tech](http://www.enpc.fr/)
+    - *On programming good practices, with Python (OOP, coding style, testing, design patterns, GUI).* 
+    - Directed 3 coding dojos and 8 work sessions
+    - Mentored weekly 5 end-of-semester projects. 
+    - Evaluated 21 end-of-semester projects (report, code, oral presentation).
 
 ## Community service
 - **Conference reviews**: 
