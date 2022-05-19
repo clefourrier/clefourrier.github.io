@@ -24,6 +24,7 @@ author_profile: true
     - Creation of [CondALPI](https://gitlab.inria.fr/almanach/alpi/-/tree/condalpi), a perl/conda installer for the ALPI pipeline, developed for the [EDS-COVID Task Force](https://eds.aphp.fr/covid-19) 
 
 - **Papers study group presentations**
+    - 05/2022: *Deciphering Undersegmented Ancient Scripts Using Phonetic Prior - Luo et al 2021* 
     - 10/2021: *Multilingual Agreement for Multilingual Neural Machine Translation - Yang et al 2021* ([Slides](https://drive.google.com/file/d/12FLg1FMxZLU76UtP5RIgf0NJWjx7kLmE/view?usp=sharing))
     - 02/2021: *On the Dangers of Stochastic Parrots: Can Language Models be Too Big - Bender et al 2021* ([Slides](https://drive.google.com/file/d/1q7_KMMTj4dPRD6si9OgIOT-GWujOv-8C/view?usp=sharing))
     - 05/2020: *Dataset for Temporal Analysis of English-French Cognates - Frossard et al 2020* ([Slides](https://drive.google.com/file/d/1puLEBVx-KhA28qXdxnJC8KZRTj9rWjep/view?usp=sharing))
