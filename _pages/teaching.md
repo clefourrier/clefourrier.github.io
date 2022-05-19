@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Volunteering"
+title: "Community service"
 permalink: /teaching/
 author_profile: true
 ---
