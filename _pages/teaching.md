@@ -12,17 +12,20 @@ author_profile: true
     - Mentored weekly 5 end-of-semester projects. 
     - Evaluated 21 end-of-semester projects (report, code, oral presentation).
 
-## Community service
-- **Conference reviews**: 
-    - LChange 2022, EMNLP 2021, ACL 2021, ACL 2020
+## Reviewing
+- LChange 2022, EMNLP 2021, ACL 2021, ACL 2020
 
-- **Website building**:
-    - ALMAnaCH [team website](http://files.inria.fr/almanach/index-en.html) 
-    - EMNLP 2020 [conference website](https://github.com/acl-org/emnlp-2020-virtual-conference)
-    - ACL 2020 [conference website](https://github.com/acl-org/acl-2020-virtual-conference)
+## Community volunteering during the COVID pandemic
+- **Conference website building**:
+    - [EMNLP 2020](https://github.com/acl-org/emnlp-2020-virtual-conference)
+    - [ACL 2020](https://github.com/acl-org/acl-2020-virtual-conference)
 
 - **Software dev**:
     - Creation of [CondALPI](https://gitlab.inria.fr/almanach/alpi/-/tree/condalpi), a perl/conda installer for the ALPI pipeline, developed for the [EDS-COVID Task Force](https://eds.aphp.fr/covid-19) 
+
+## Misc
+- **Website building**:
+    - ALMAnaCH [team website](http://files.inria.fr/almanach/index-en.html) 
 
 - **Papers study group presentations**
     - 05/2022: *Deciphering Undersegmented Ancient Scripts Using Phonetic Prior - Luo et al 2021* 
