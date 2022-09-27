@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clémentine Fourrier"
 title_separator          : "-"
 name                     : &name "Clémentine Fourrier"
-description              : &description "NLP PhD Student"
+description              : &description "Research Scientist"
 url                      : https://clefourrier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clefourrier/clefourrier.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Clémentine Fourrier"
   avatar           : "profile.png"
-  bio              : "NLP PhD student at Inria Paris"
+  bio              : "Research Scientist"
   location         : 
   pubmed           : 
   googlescholar    : "UiK-jPcAAAAJ"

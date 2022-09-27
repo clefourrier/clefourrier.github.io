@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-During my PhD, I have been heavily involved in outreach, especially to encourage high school girls to join STEM fields. Since 2019, I have organised two 2-days outreach events (RJMI Inria Paris), given 3 talks, taken part in several interactive discussions with high school students on computer science, and in 9 speed meetings. I was invited to talk at the [French Assemblée Nationale in June 2021](https://twitter.com/clefourrier/status/1402656409196679177) about the impact of outreach on gender stereotypes. 
+Outreach has been a priority of mine, especially to encourage high school girls to join STEM fields. Since 2019, I have organised two 2-days outreach events (RJMI Inria Paris), given 3 talks, taken part in several interactive discussions with high school students on computer science, and in 9 speed meetings. I was invited to talk at the [French Assemblée Nationale in June 2021](https://twitter.com/clefourrier/status/1402656409196679177) about the impact of outreach on gender stereotypes. 
 
 |<img width=350 src="/images/outreach/JFMI2021.jpg" alt="Presenting for Girls and Maths, a luminous equation">| <img width=400 src="/images/outreach/RJMI2020.jpg" alt="Talking about career choices with high school girls during the RJMI"> | <img width=400 src="/images/outreach/SemaineDesMaths2021.jpg" alt="Presenting for the math week"> | 
 
