@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently a research scientist at [HuggingFace](https://huggingface.co/), working on graphs, transformers, and other interesting things!
+Currently a research scientist at [HuggingFace](https://huggingface.co/), working on LLM evaluation!
 
 ## Previously
 - 2019-2022: **Computer science PhD** at [Inria Paris](https://www.inria.fr/centre/paris), focusing on the evolution of words through time, including: 
