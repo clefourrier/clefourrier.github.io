@@ -4,7 +4,6 @@
 toc: true
 include-before: |
 	<div class="topnav">
-	  <a href="index.html"><img src="images/site-logo.png" width=40px class="aligncenter"> </a>
 	  <a href="index.html#who">Who am I?</a>
 	  <a href="index.html#research">Research</a>
 	  <a href="index.html#resources">Resources</a>
