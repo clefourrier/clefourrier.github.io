@@ -13,7 +13,7 @@ include-before: |
 
 
 ## Welcome!
-<img src="images/site-logo.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our evaluation efforts (for LLM and agents). My team and I maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. 
+<img src="images/profile.jpeg" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our evaluation efforts (for LLM and agents). My team and I maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. 
 
 We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
 
