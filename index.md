@@ -4,8 +4,8 @@
 toc: true
 include-before: |
 	<div class="topnav">
-	  <a href="index.html"><img src="img/logo.png" width=40px class="aligncenter"> </a>
-	  <a href="index.html">Who am I?</a>
+	  <a href="index.html"><img src="images/site-logo.png" width=40px class="aligncenter"> </a>
+	  <a href="index.html#who">Who am I?</a>
 	  <a href="index.html#research">Research</a>
 	  <a href="index.html#resources">Resources</a>
 	</div> 
@@ -13,7 +13,7 @@ include-before: |
 
 
 ## Welcome!
-<img src="img/me.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our evaluation efforts (for LLM and agents). My team and I maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. 
+<img src="images/site-logo.png" alt="A photo of the website author" width="130px" style="float: left; margin: 0 15px 0 0;"> My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our evaluation efforts (for LLM and agents). My team and I maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. 
 
 We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
 
@@ -24,11 +24,11 @@ I enjoy programming, and am interested in making science open and understandable
 ### Contact: 
 You can reach me at `myfirstname at 🤗 dot co`, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/).
 
-## About this site
+### About this site
 This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  
 I use markdown and pandoc.
 
-# Who am I ? {#who}
+## Who am I ? {#who}
 An engineer at heart. 
 My motto would likely be: "So much to do, so little time".
 
@@ -48,7 +48,7 @@ and of course, evaluation/agents, my current topics of interest!
 It's likely I'll learn new things again! (robotics maybe? ¯\\_(ツ)_/¯ )
 
 
-# Research 
+## Research 
 
 ### Featured publications
 As a main author:
@@ -59,6 +59,7 @@ As a main author:
 - 2021, ACL: [Can Cognate Prediction Be Modelled as a Low-Resource Machine Translation Task?](https://aclanthology.org/2021.findings-acl.75/)
 
 As a contributor:
+
 - 2024, arxiv: [Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](https://arxiv.org/abs/2412.03304)
 - 2023, arxiv: [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944)
 - 2022, arxiv: [Bloom: A 176b-parameter open-access multilingual language model](https://arxiv.org/abs/2211.05100)
@@ -88,7 +89,7 @@ You'll find my full publication list on google scholar.
 - Jan 2023: Blog - [Introduction to Graph Machine Learning](https://huggingface.co/blog/intro-graphml)
 
 
-# Resources {#resources}
+## Resources {#resources}
 
 #### Lighteval ([here](https://github.com/huggingface/lighteval))
 Lightweight evaluation library for LLMs. Easy to use and contains most SOTA datasets!
