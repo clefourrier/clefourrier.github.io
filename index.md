@@ -47,7 +47,7 @@ As a contributor:
 You'll find my full publication list on google scholar.
 
 ### Talks/blogs/press
-- Mar 2025: Talk - [CNRS NLP WG: Panorama of LLM evaluations](slides)
+- Mar 2025: Talk - [CNRS NLP WG: Panorama of LLM evaluations](talks/2025_panorama_llm_evals.pdf)
 - Mar 2025: Blog - [Fixing the Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard) - introduction of a better math parser for math evaluations (work mainly done by Hynek Kydlicek)
 - Feb 2025: TV - [France24's tech TV Show: Tech24](https://www.youtube.com/watch?v=snPH-zZRSNQ)
 - Feb 2025: Elysée communication - [AI summit conclusions](https://www.elysee.fr/emmanuel-macron/2025/02/11/les-actions-de-paris-pour-lintelligence-artificielle), showcasing the French LLM Leaderboard we did with French institutions
