@@ -8,13 +8,15 @@ include-before: |
 	  <a href="index.html#research">Research</a>
 	  <a href="index.html#resources">Resources</a>
 	</div> 
+css: https://latex.vercel.app/style.css
 ---
 
 
 ## Welcome!
-<img src="images/site-logo.png" alt="A photo of the website author's logo" width="130px" style="float: left; margin: 0 15px 0 0;"> My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our evaluation efforts (for LLM and agents). My team and I maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. 
+<img src="images/site-logo.png" alt="A photo of the website author's logo" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
-We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
+My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our LLM/agents evaluation efforts and collabs. [My team and I](https://huggingface.co/OpenEvals) maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
+On the side, I also give a hand on our AI for good initiatives. 
 
 Before Hugging Face, I did a **PhD** on using neural networks to reconstruct dead and disappeared words (from 2019 to 2022), after working as a **software engineer** (from 2015 to 2019).
 
@@ -59,6 +61,7 @@ As a main author:
 
 As a contributor:
 
+- 2025, arxiv: [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737)
 - 2024, arxiv: [Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](https://arxiv.org/abs/2412.03304)
 - 2023, arxiv: [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944)
 - 2022, arxiv: [Bloom: A 176b-parameter open-access multilingual language model](https://arxiv.org/abs/2211.05100)
