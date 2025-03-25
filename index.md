@@ -15,42 +15,19 @@ css: https://latex.vercel.app/style.css
 ## Welcome!
 <img src="images/site-logo.png" alt="A photo of the website author's logo" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
-My name is Clémentine, and I'm an AI researcher at HuggingFace. I lead our LLM/agents evaluation efforts and collabs. [My team and I](https://huggingface.co/OpenEvals) maintain `ligtheval`, a lightweight evaluation suite, `the evaluation guidebook` (good practices on evaluation), and help the community build their own evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
-On the side, I also give a hand on our AI for good initiatives. 
+I'm an AI researcher at HuggingFace, leading our LLM/agents evaluation efforts and collabs. My team and I maintain `ligtheval` and `the evaluation guidebook` (resources for efficient LLM evaluation), as well as build and help the community build evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
+On the side, I give a hand to our AI for good initiatives. 
 
-Before Hugging Face, I did a **PhD** on using neural networks to reconstruct dead and disappeared words (from 2019 to 2022), after working as a **software engineer** (from 2015 to 2019).
+Before Hugging Face, I did a **PhD** from 2019 to 2022 at Inria Paris, after working as a **software engineer** from 2015 to 2019.
 
-I enjoy programming, and am interested in making science open and understandable, books, and delicious food. I go by `clefourrier` over the web.
-
-### Contact: 
-You can reach me at `myfirstname at 🤗 dot co`, on [Twitter](https://twitter.com/clefourrier), or [LinkedIn](https://www.linkedin.com/in/clefourrier/).
-
-### About this site
-This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/) ([French version](https://framablog.org/2020/08/24/pour-une-page-web-qui-dure-10-ans)).  
-I use markdown and pandoc.
-
-## Who am I ? {#who}
-An engineer at heart. 
+I enjoy programming, and am interested in making science open and understandable, books, and delicious food.
 My motto would likely be: "So much to do, so little time".
 
-### Education
-
-- 2022: **CS PhD** (@Inria Paris and @EPHE)
-- 2015: **MEng** (@ENSG-Nancy) and **MBA** (@ISAM-IAE-Nancy) *(don't reproduce this at home I was dead tired)*
-
-### Topics I enjoyed working on 
-
-- using 3D meshes and grids for geology and structural modeling (2014-2015)
-- neurodegenerative disease prediction from longitudinal data (2017-2018)
-- natural language processing applied to historical linguistics (2018-2022)
-- graph machine learning (2022)
-and of course, evaluation/agents, my current topics of interest!
-
-It's likely I'll learn new things again! (robotics maybe? ¯\\_(ツ)_/¯ )
+### Contact: 
+You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/)b, [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`.
 
 
 ## Research 
-
 ### Featured publications
 As a main author:
 
@@ -104,3 +81,19 @@ Anything you need to know about LLM evaluations. Contains both starter resources
 
 #### PLexGen ([here](https://github.com/clefourrier/PLexGen))
 Conlang generator. This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
+
+
+## Misc
+
+#### Topics I previously enjoyed working on 
+
+- using 3D meshes and grids for geology and structural modeling (2014-2015)
+- neurodegenerative disease prediction from longitudinal data (2017-2018)
+- reconstructing dead languages using neural networks (2018-2022)
+- graph machine learning (2022)
+and of course, evaluation/agents, my current topics of interest!
+
+It's likely I'll learn new things again! (robotics maybe? ¯\\_(ツ)_/¯ )
+
+#### About this site
+This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/).I use markdown and pandoc.
