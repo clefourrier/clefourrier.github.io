@@ -78,8 +78,8 @@ World wide rankings and evaluation of Open Source LLMs, maintained by my team an
 #### 📙 Evaluation guidebook 
 Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting.
 
-#### 🌳 PLexGen 
-Conlang generator ([here](https://github.com/clefourrier/PLexGen)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
+#### 🌳 Conlang Phonetic Lexicon Generator
+Conlang generator ([here](https://github.com/clefourrier/ConlangPLG/)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
 
 
 ## Misc
