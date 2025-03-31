@@ -9,7 +9,7 @@ css: https://latex.vercel.app/style.css
 ## Welcome!
 <img src="images/site-logo.png" alt="The website author's logo, an orange slice (pun on her first name). Logo made by Alix Chagué" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
-I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). My team and I maintain [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) (learn how to evaluate LLMs efficiently), as well as build and help the community build evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
+I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). My team and I maintain [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook), as well as build/help the community build cool evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
 On the side, I give a hand to our AI for good/AI for science initiatives. 
 
 Before Hugging Face, I did a **PhD** from 2019 to 2022 at Inria Paris, after working as a **software engineer** from 2015 to 2019.
@@ -18,10 +18,11 @@ I enjoy programming, and am interested in making science open and understandable
 My motto would likely be: "So much to do, so little time".
 
 ### Contact: 
-You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`.
+You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`. If you want a fast answer, better make it short and to the point :)
 
-My bandwidth is in general quite low, however:
-- If you want to collab, please explain in a few bullets what you're working on/what you need/why you think it would be cool to work together, in an email starting with `[COLAB PROPOSAL]`. If you want a fast answer, better make it short and to the point ^^
+My bandwidth is in general quite low, but:
+
+- If you want to collab, please explain in a few bullets what you're working on/what you need/why you think it would be cool to work together, in an email starting with `[COLAB PROPOSAL]`. 
 - If you're a woman starting in the field, and you need mentorship, please send me a list of questions in an email with a title starting with `[MENTORING]` - depending on my time I'll either answer async or invite you to a video call.
 
 
