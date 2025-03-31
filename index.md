@@ -2,21 +2,15 @@
 
 ---
 toc: true
-include-before: |
-	<div class="topnav">
-	  <a href="index.html#who">Who am I?</a>
-	  <a href="index.html#research">Research</a>
-	  <a href="index.html#resources">Resources</a>
-	</div> 
 css: https://latex.vercel.app/style.css
 ---
 
 
 ## Welcome!
-<img src="images/site-logo.png" alt="A photo of the website author's logo" width="130px" style="float: left; margin: 0 15px 0 0;"> 
+<img src="images/site-logo.png" alt="The website author's logo, an orange slice (pun on her first name). Logo made by Alix Chagué" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
-I'm an AI researcher at HuggingFace, leading our LLM/agents evaluation efforts and collabs. My team and I maintain `ligtheval` and `the evaluation guidebook` (resources for efficient LLM evaluation), as well as build and help the community build evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
-On the side, I give a hand to our AI for good initiatives. 
+I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). My team and I maintain [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) (learn how to evaluate LLMs efficiently), as well as build and help the community build evaluations. We previously worked on the Open LLM Leaderboard (11K open source models evaluated over 2 years).
+On the side, I give a hand to our AI for good/AI for science initiatives. 
 
 Before Hugging Face, I did a **PhD** from 2019 to 2022 at Inria Paris, after working as a **software engineer** from 2015 to 2019.
 
@@ -24,7 +18,11 @@ I enjoy programming, and am interested in making science open and understandable
 My motto would likely be: "So much to do, so little time".
 
 ### Contact: 
-You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/)b, [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`.
+You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`.
+
+My bandwidth is in general quite low, however:
+- If you want to collab, please explain in a few bullets what you're working on/what you need/why you think it would be cool to work together, in an email starting with `[COLAB PROPOSAL]`. If you want a fast answer, better make it short and to the point ^^
+- If you're a woman starting in the field, and you need mentorship, please send me a list of questions in an email with a title starting with `[MENTORING]` - depending on my time I'll either answer async or invite you to a video call.
 
 
 ## Research 
@@ -70,30 +68,31 @@ You'll find my full publication list on google scholar.
 
 ## Resources {#resources}
 
-#### Lighteval ([here](https://github.com/huggingface/lighteval))
-Lightweight evaluation library for LLMs. Easy to use and contains most SOTA datasets!
+#### ⛅ Lighteval 
+Lightweight evaluation library for LLMs ([here](https://github.com/huggingface/lighteval)). Easy to use and contains most SOTA datasets!
 
-#### Open LLM Leaderboard ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard))
-World wide rankings and evaluation of Open Source LLMs, maintained by my team and I, from 2023 to 2025. 11K models were evaluated. The repositories and datasets are kept for archival purposes
+#### 🥇 Open LLM Leaderboard
+World wide rankings and evaluation of Open Source LLMs, maintained by my team and I, from 2023 to 2025. 11K models were evaluated. The repositories and datasets are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)).
 
-#### Evaluation guidebook ([here](https://github.com/huggingface/evaluation-guidebook))
-Anything you need to know about LLM evaluations. Contains both starter resources and advanced troubleshooting.
+#### 📙 Evaluation guidebook 
+Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting.
 
-#### PLexGen ([here](https://github.com/clefourrier/PLexGen))
-Conlang generator. This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
+#### 🌳 PLexGen 
+Conlang generator ([here](https://github.com/clefourrier/PLexGen)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
 
 
 ## Misc
 
-#### Topics I previously enjoyed working on 
+#### Topics I enjoyed working on 
 
 - using 3D meshes and grids for geology and structural modeling (2014-2015)
 - neurodegenerative disease prediction from longitudinal data (2017-2018)
 - reconstructing dead languages using neural networks (2018-2022)
 - graph machine learning (2022)
-and of course, evaluation/agents, my current topics of interest!
+- and of course, evaluation/agents (2023-now), my current topics of interest!
 
 It's likely I'll learn new things again! (robotics maybe? ¯\\_(ツ)_/¯ )
 
 #### About this site
-This site is deliberately static and lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/).I use markdown and pandoc.
+This site is deliberately static and very lightweight, for ecology, accessibility, and [this](https://jeffhuang.com/designed_to_last/). I use markdown and pandoc.
+My logo was made by [Alix Chagué](https://alix-tz.github.io/).
