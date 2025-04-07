@@ -10,13 +10,16 @@ css: https://latex.vercel.app/style.css
 <img src="images/site-logo.png" alt="The website author's logo, an orange slice (pun on her first name). Logo made by Alix Chagué" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
 I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). The [OpenEvals](https://huggingface.co/OpenEvals) team maintains [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook), as well as builds/helps the community build cool evaluations. We previously worked on the Open LLM Leaderboard.
+
 On the side, I give a hand to our AI for good/AI for science initiatives. 
 
 I enjoy programming, making science open and understandable, books, and delicious food.
 My motto would likely be: "So much to do, so little time".
 
 ### Contact: 
-You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`. If you want a fast answer, better make it short and to the point ^^
+You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`. Open to both collabs and mentoring, within available bandwidth.
+
+If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
 **Apr 2025**: 🗞️ VentureBeat : [Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data](https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/)<br/>
@@ -61,24 +64,18 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 **Feb 2020**: 📜 Arxiv : [The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up](https://arxiv.org/abs/2002.03419)
 
 
-## Misc 
-
 ### Resources
-
-#### ⛅ Lighteval 
-Lightweight evaluation library for LLMs ([here](https://github.com/huggingface/lighteval)). Easy to use and contains most SOTA datasets!
-
-#### 🥇 Open LLM Leaderboard
-World wide rankings and evaluation of Open Source LLMs, maintained by the OpenEvals team, from 2023 to 2025. 11K models were evaluated. The repositories and datasets are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)).
-
-#### 📙 Evaluation guidebook 
-Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting.
-
-#### 🌳 Conlang Phonetic Lexicon Generator
-Conlang generator ([here](https://github.com/clefourrier/ConlangPLG/)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! Provide your language shape (phonetics and phonotactics) and sound changes, and it will randomly generate a proto-language and its daughter languages after your specifications!
+⛅ **Lighteval** <br/>
+Lightweight evaluation library for LLMs ([here](https://github.com/huggingface/lighteval)). Easy to use and contains most SOTA datasets! <br/>
+📙 **The LLM Evaluation guidebook** <br/>
+Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting. <br/>
+🥇 **Open LLM Leaderboard** <br/>
+World wide rankings and evaluation of Open Source LLMs. 11K models were evaluated between 2023 and 2025. Repositories are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)). Lots of dataviz/data analysis to be done!<br/>
+🌳 **Conlang Phonetic Lexicon Generator** <br/>
+Conlang generator ([here](https://github.com/clefourrier/ConlangPLG/)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! From phonetics, phonotactics and sound changes, it will randomly generate a proto-language and its daughter languages after your specifications.
 
 
-#### Previous research topics<br/>
+#### Previous research/interest topics
 using 3D meshes and grids for geology and structural modeling (2014-2015)<br/>
 neurodegenerative disease prediction from longitudinal data (2017-2018)<br/>
 reconstructing dead languages using neural networks (2019-2022)<br/>
