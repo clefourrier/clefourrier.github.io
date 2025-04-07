@@ -9,7 +9,7 @@ css: https://latex.vercel.app/style.css
 ## Welcome!
 <img src="images/site-logo.png" alt="The website author's logo, an orange slice (pun on her first name). Logo made by Alix Chagué" width="130px" style="float: left; margin: 0 15px 0 0;"> 
 
-I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). My team and I maintain [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook), as well as build/help the community build cool evaluations. We previously worked on the Open LLM Leaderboard.
+I'm an AI researcher at HuggingFace, leading our evaluation efforts and collabs (on LLMs/agents). The [OpenEvals](https://huggingface.co/OpenEvals) team maintains [lighteval](https://github.com/huggingface/lighteval) and the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook), as well as builds/helps the community build cool evaluations. We previously worked on the Open LLM Leaderboard.
 On the side, I give a hand to our AI for good/AI for science initiatives. 
 
 I enjoy programming, making science open and understandable, books, and delicious food.
@@ -66,7 +66,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 Lightweight evaluation library for LLMs ([here](https://github.com/huggingface/lighteval)). Easy to use and contains most SOTA datasets!
 
 #### 🥇 Open LLM Leaderboard
-World wide rankings and evaluation of Open Source LLMs, maintained by my team and I, from 2023 to 2025. 11K models were evaluated. The repositories and datasets are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)).
+World wide rankings and evaluation of Open Source LLMs, maintained by the OpenEvals team, from 2023 to 2025. 11K models were evaluated. The repositories and datasets are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)).
 
 #### 📙 Evaluation guidebook 
 Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting.
