@@ -23,6 +23,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 - [Apr 2025] 📜 Arxiv: [YourBench: Easy Custom Evaluation Sets for Everyone](https://arxiv.org/abs/2504.01833)
 - ✨ [Mar 2025] 🎤 CNRS NLP working group : [Panorama of LLM evaluations](talks/2025_panorama_llm_evals.pdf)
 - [Mar 2025] 📝 Blog : [Fixing the Open LLM Leaderboard with Math-Verify](https://huggingface.co/blog/math_verify_leaderboard)
+- [Mar 2025] 🗞️ Epsiloon Magazine: [IA: le quiz ultime](https://www.epsiloon.com/tous-les-numeros/n46/ia_le_quiz_ultime/) 
 - [Feb 2025] 🗞️ France 24 TV : [Tech24 on AI](https://www.youtube.com/watch?v=snPH-zZRSNQ)
 - [Feb 2025] 🗞️ Elysée communication : [AI summit conclusions, showcasing the French LLM Leaderboard we did with French institutions](https://www.elysee.fr/emmanuel-macron/2025/02/11/les-actions-de-paris-pour-lintelligence-artificielle), 
 - [Feb 2025] ⭐ Finalist of the 2025 French Innovators Awards, AI section : [100 French scientists whose research change our lives, by the French journal Le Point](https://www.lepoint.fr/sciences-nature/palmares-des-inventeurs-2025-notre-methodologie-et-nos-laureats-13-02-2025-2582376_1924.php) 
