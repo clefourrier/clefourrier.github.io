@@ -22,6 +22,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Apr 2025**: 🗞️ BusinessInsider: [Figuring out which AI model is right for you is harder than you think](https://www.businessinsider.com/ai-benchmark-best-model-compare-meta-openai-deepseek-google-2025-4)
 **Apr 2025**: 🗞️ VentureBeat : [Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data](https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/)<br/>
 **Apr 2025**: 📜 Arxiv : [YourBench: Easy Custom Evaluation Sets for Everyone](https://arxiv.org/abs/2504.01833)<br/>
 **Mar 2025**: 🎤 CNRS NLP working group : [Panorama of LLM evaluations](talks/2025_panorama_llm_evals.pdf) ✨ <br/>
@@ -63,24 +64,12 @@ If you want a fast answer, better make it short and to the point ^^
 **May 2020**: 📜 LREC : [Methodological Aspects of Developing and Managing an Etymological Lexical Resource: Introducing EtymDB-2.0](https://aclanthology.org/2020.lrec-1.392/)<br/>
 **Feb 2020**: 📜 Arxiv : [The Alzheimer's Disease Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after 1 Year Follow-up](https://arxiv.org/abs/2002.03419)
 
-
-### Resources
-⛅ **Lighteval** <br/>
-Lightweight evaluation library for LLMs ([here](https://github.com/huggingface/lighteval)). Easy to use and contains most SOTA datasets! <br/>
-📙 **The LLM Evaluation guidebook** <br/>
-Anything you need to know about LLM evaluations ([here](https://github.com/huggingface/evaluation-guidebook)). Contains both starter resources and advanced troubleshooting. <br/>
-🥇 **Open LLM Leaderboard** <br/>
-World wide rankings and evaluation of Open Source LLMs. 11K models were evaluated between 2023 and 2025. Repositories are kept for archival purposes ([v2](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) and [v1](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard)). Lots of dataviz/data analysis to be done!<br/>
-🌳 **Conlang Phonetic Lexicon Generator** <br/>
-Conlang generator ([here](https://github.com/clefourrier/ConlangPLG/)). This one dates back from my PhD, it's a phonetic lexicon generator and sound change applier! From phonetics, phonotactics and sound changes, it will randomly generate a proto-language and its daughter languages after your specifications.
-
-
 #### Previous research/interest topics
-using 3D meshes and grids for geology and structural modeling (2014-2015)<br/>
-neurodegenerative disease prediction from longitudinal data (2017-2018)<br/>
-reconstructing dead languages using neural networks (2019-2022)<br/>
+atm, evaluation of LLMs and agents (2023-now)<br/>
 graph machine learning (2022)<br/>
-and of course, evaluation/agents (2023-now), my current topics of interest!
+reconstructing dead languages using neural networks (2019-2022)<br/>
+neurodegenerative disease prediction from longitudinal data (2017-2018)<br/>
+using 3D meshes and grids for geology and structural modeling (2014-2015)<br/>
 
 It's likely I'll learn new things again! (robotics maybe? ¯\\_(ツ)_/¯ )
 
