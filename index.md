@@ -22,6 +22,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Jun 2025**: 📜 YourBench accepted to COLM, congrats to first author [Sumuk Shashidhar](https://sumuk.org/) <br/>
 **Jun 2025**: 🗞️ Underscore interview: [AI has quietly reached a historic milestone](https://www.youtube.com/watch?v=biZX5cnQ_UU) ([full twitch](https://www.twitch.tv/videos/2483237332)) <br/>
 **Apr 2025**: 🗞️ BusinessInsider: [Figuring out which AI model is right for you is harder than you think](https://www.businessinsider.com/ai-benchmark-best-model-compare-meta-openai-deepseek-google-2025-4)<br/>
 **Apr 2025**: 🗞️ VentureBeat : [Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data](https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/)<br/>
