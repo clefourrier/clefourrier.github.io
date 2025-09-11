@@ -17,14 +17,14 @@ I enjoy programming, making science open and understandable, books, and deliciou
 My motto would likely be: "So much to do, so little time".
 
 ### Contact: 
-You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), [BlueSky](https://bsky.app/profile/clefourrier.hf.co), ...), or you can reach me at `myfirstname at 🤗 dot co`. Open to both collabs and mentoring, within available bandwidth.
+You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clefourrier), [LinkedIn](https://www.linkedin.com/in/clefourrier/), ...), or you can reach me at `myfirstname at 🤗 dot co`. Open to both collabs and mentoring, within available bandwidth.
 
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Sep 2025**: 🎧 France Culture, La Science CQFD: [Evaluation des IA : souffler dans l'algotest](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/l-ia-souffle-dans-l-algotest-1340696)  <br/>
 **Aug 2025**: 🗞️ MITTR: [GPT-5 is here, now what?](https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/) <br/>
-**Jun 2025**: 📜 YourBench accepted to COLM, congrats to first author [Sumuk Shashidhar](https://sumuk.org/) <br/>
-**Jun 2025**: 📺 Underscore: [AI has quietly reached a historic milestone](https://www.youtube.com/watch?v=biZX5cnQ_UU) ([full twitch](https://www.twitch.tv/videos/2483237332)) <br/>
+**Jun 2025**: 🎧 Underscore: [AI has quietly reached a historic milestone](https://www.youtube.com/watch?v=biZX5cnQ_UU) <br/>
 **Apr 2025**: 🗞️ BusinessInsider: [Figuring out which AI model is right for you is harder than you think](https://www.businessinsider.com/ai-benchmark-best-model-compare-meta-openai-deepseek-google-2025-4)<br/>
 **Apr 2025**: 🗞️ VentureBeat : [Beyond generic benchmarks: How Yourbench lets enterprises evaluate AI models against actual data](https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/)<br/>
 **Apr 2025**: 📜 Arxiv : [YourBench: Easy Custom Evaluation Sets for Everyone](https://arxiv.org/abs/2504.01833)<br/>
