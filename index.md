@@ -22,6 +22,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Sep 2025**: 🏘️ Wallenberg Advanced Scientific Forum 2025: [Measuring What Matters: Evaluation as a Driver of Generative AI](https://wasp-sweden.org/wallenberg-advanced-scientific-forum-2025/) <br/>
 **Sep 2025**: 🎧 France Culture, La Science CQFD: [Evaluation des IA : souffler dans l'algotest](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/l-ia-souffle-dans-l-algotest-1340696)  <br/>
 **Aug 2025**: 🗞️ MITTR: [GPT-5 is here, now what?](https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/) <br/>
 **Jun 2025**: 🎧 Underscore: [AI has quietly reached a historic milestone](https://www.youtube.com/watch?v=biZX5cnQ_UU) <br/>
