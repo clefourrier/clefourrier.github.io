@@ -22,6 +22,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Oct 2025**: ⭐ AI 100 2025 by H2O.ai: [The Top AI Leaders Driving Real-World Impact](https://h2o.ai/ai-100/winners/2025/)  <br/>
 **Oct 2025**: 🗞️ Nature: [AI bots wrote and reviewed all papers at this conference](https://www.nature.com/articles/d41586-025-03363-3)  <br/>
 **Sep 2025**: 🏘️ Wallenberg Advanced Scientific Forum 2025: [Measuring What Matters: Evaluation as a Driver of Generative AI](https://wasp-sweden.org/wallenberg-advanced-scientific-forum-2025/) <br/>
 **Sep 2025**: 🎧 France Culture, La Science CQFD: [Evaluation des IA : souffler dans l'algotest](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/l-ia-souffle-dans-l-algotest-1340696)  <br/>
@@ -35,7 +36,7 @@ If you want a fast answer, better make it short and to the point ^^
 **Mar 2025**: 🗞️ Epsiloon Magazine : [IA: le quiz ultime](https://www.epsiloon.com/tous-les-numeros/n46/ia_le_quiz_ultime/) <br/>
 **Feb 2025**: 📺 France 24 TV : [Tech24 on AI](https://www.youtube.com/watch?v=snPH-zZRSNQ)<br/>
 **Feb 2025**: 🗞️ French AI Summit Conclusions: [French LLM Leaderboard showcase](https://www.elysee.fr/emmanuel-macron/2025/02/11/les-actions-de-paris-pour-lintelligence-artificielle), <br/>
-**Feb 2025**: ⭐ Finalist of the 2025 French Innovators Awards, AI section : [100 French scientists whose research change our lives, by the French journal Le Point](https://www.lepoint.fr/sciences-nature/palmares-des-inventeurs-2025-notre-methodologie-et-nos-laureats-13-02-2025-2582376_1924.php) <br/>
+**Feb 2025**: ⭐ 2025 French Innovators Awards, AI section : [100 French scientists whose research change our lives, by the French journal Le Point](https://www.lepoint.fr/sciences-nature/palmares-des-inventeurs-2025-notre-methodologie-et-nos-laureats-13-02-2025-2582376_1924.php) <br/>
 **Feb 2025**: 📜 Arxiv : [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737)<br/>
 **Jan 2025**: 📝 Blog : [CO2 emissions and model performance: Insights from the Open LLM Leaderboard](https://huggingface.co/blog/leaderboard-emissions-analysis)<br/>
 **Dec 2024**: 📜 Arxiv : [Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](https://arxiv.org/abs/2412.03304)<br/>
