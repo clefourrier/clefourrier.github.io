@@ -22,6 +22,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 If you want a fast answer, better make it short and to the point ^^ 
 
 ### Timeline
+**Oct 2025**: 📝 Blog/Book : [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) <br/>
 **Oct 2025**: ⭐ AI 100 2025 by H2O.ai: [The Top AI Leaders Driving Real-World Impact](https://h2o.ai/ai-100/winners/2025/)  <br/>
 **Oct 2025**: 🗞️ Nature: [AI bots wrote and reviewed all papers at this conference](https://www.nature.com/articles/d41586-025-03363-3)  <br/>
 **Sep 2025**: 🏘️ Wallenberg Advanced Scientific Forum 2025: [Measuring What Matters: Evaluation as a Driver of Generative AI](https://wasp-sweden.org/wallenberg-advanced-scientific-forum-2025/) <br/>
