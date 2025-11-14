@@ -1,0 +1,37 @@
+.filter-checkbox { display: none; }
+.filter-labels { margin-bottom: 15px; }
+.filter-labels label {
+  display: inline-block;
+  padding: 5px 12px;
+  margin: 3px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #f5f5f5;
+}
+.filter-labels label:hover { background: #e0e0e0; }
+.filter-checkbox:checked + label {
+  background: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+/* Default: show all items */
+.timeline-item { display: block; }
+
+/* When any filter is active, hide all items by default */
+#filter-star:checked ~ .timeline-content .timeline-item,
+#filter-paper:checked ~ .timeline-content .timeline-item,
+#filter-news:checked ~ .timeline-content .timeline-item,
+#filter-podcast:checked ~ .timeline-content .timeline-item,
+#filter-academia:checked ~ .timeline-content .timeline-item,
+#filter-release:checked ~ .timeline-content .timeline-item,
+#filter-tv:checked ~ .timeline-content .timeline-item { display: none; }
+
+/* Show items matching active filters */
+#filter-star:checked ~ .timeline-content .timeline-item.star { display: block; }
+#filter-paper:checked ~ .timeline-content .timeline-item.paper { display: block; }
+#filter-news:checked ~ .timeline-content .timeline-item.news { display: block; }
+#filter-podcast:checked ~ .timeline-content .timeline-item.podcast { display: block; }
+#filter-academia:checked ~ .timeline-content .timeline-item.academia { display: block; }
+#filter-release:checked ~ .timeline-content .timeline-item.release { display: block; }

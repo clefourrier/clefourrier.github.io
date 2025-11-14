@@ -23,6 +23,7 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="https://latex.vercel.app/style.css" />
+  <link rel="stylesheet" href="timeline-filter.css" />
 </head>
 <body>
 <header id="title-block-header">
@@ -33,14 +34,14 @@
 </nav>
 <h2 id="welcome">Welcome!</h2>
 <p><img src="images/site-logo.png" alt="The website author's logo, an orange slice (pun on her first name). Logo made by Alix Chagué" width="130px" style="float: left; margin: 0 15px 0 0;"></p>
-<p>I’m an AI researcher at HuggingFace, leading our evaluation efforts
-and collabs (on LLMs/agents). The <a
-href="https://huggingface.co/OpenEvals">OpenEvals</a> team maintains <a
-href="https://github.com/huggingface/lighteval">lighteval</a> and the <a
+<p>I’m an AI researcher at HuggingFace.</p>
+<p>Between 2023 and 2025, I led our evaluation efforts and collabs (on
+LLMs/agents) - <a href="https://huggingface.co/OpenEvals">my team</a>’s
+most famous projects include <a
+href="https://github.com/huggingface/lighteval">lighteval</a>, the <a
 href="https://github.com/huggingface/evaluation-guidebook">evaluation
-guidebook</a>, as well as builds/helps the community build cool
-evaluations. We previously worked on the Open LLM Leaderboard.</p>
-<p>On the side, I give a hand to our AI for science initiatives.</p>
+guidebook</a> and the (former) Open LLM Leaderboard. We also built a
+couple evaluations, and helped around 50 teams build their own.</p>
 <p>I enjoy programming, making science open and understandable, books,
 and delicious food. My motto would likely be: “So much to do, so little
 time”.</p>
@@ -50,142 +51,204 @@ href="https://twitter.com/clefourrier">Twitter</a>, <a
 href="https://www.linkedin.com/in/clefourrier/">LinkedIn</a>, …), or you
 can reach me at <code>myfirstname at 🤗 dot co</code>. Open to both
 collabs and mentoring, within available bandwidth.</p>
-<h3 id="selected-timeline">Selected Timeline</h3>
-<p><strong>Nov 2025</strong>: ⭐ PhD Examiner for the thesis of <a
-href="https://grgkovac.github.io/">Grgur Kovac</a>: congrats! <br/>
-<strong>Oct 2025</strong>: 📝 Blog/Book : <a
+<h3 id="timeline">Timeline</h3>
+<div class="timeline-filter">
+<input type="checkbox" id="filter-star" class="filter-checkbox"><input type="checkbox" id="filter-paper" class="filter-checkbox"><input type="checkbox" id="filter-blog" class="filter-checkbox"><input type="checkbox" id="filter-news" class="filter-checkbox"><input type="checkbox" id="filter-podcast" class="filter-checkbox"><input type="checkbox" id="filter-academia" class="filter-checkbox"><input type="checkbox" id="filter-release" class="filter-checkbox"><input type="checkbox" id="filter-tv" class="filter-checkbox">
+<div class="filter-labels">
+<label for="filter-star">Awards
+</label><label for="filter-paper">Research</label><label for="filter-news">Press</label><label for="filter-podcast">Podcasts</label><label for="filter-academia">Academia</label><label for="filter-release">Ressources</label>
+</div>
+<div class="timeline-content">
+<p><span class="timeline-item academia"><strong>112025</strong>: 🎓 PhD
+Examiner for the thesis of <a href="https://grgkovac.github.io/">Grgur
+Kovac</a>: congrats! <br/></span> <span
+class="timeline-item paper"><strong>102025</strong>: 📝 Blog/Book : <a
 href="https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook">The
-Smol Training Playbook: The Secrets to Building World-Class LLMs</a>
-<br/> <strong>Oct 2025</strong>: ⭐ AI 100 2025 by H2O.ai: <a
+Smol Training Playbook: The Secrets to Building World-Class LLMs</a> ✨
+<br/></span> <span class="timeline-item star"><strong>102025</strong>:
+⭐ 2025’s “AI 100” by H2O.ai: <a
 href="https://h2o.ai/ai-100/winners/2025/">Top AI Leaders Driving
-Real-World Impact</a> <br/> <strong>Oct 2025</strong>: 🗞️ Nature: <a
+Real-World Impact</a> <br/></span> <span
+class="timeline-item news"><strong>102025</strong>: 🗞️ Nature: <a
 href="https://www.nature.com/articles/d41586-025-03363-3">AI bots wrote
-and reviewed all papers at this conference</a> <br/> <strong>Sep
-2025</strong>: ⭐ Invited to the Wallenberg Advanced Scientific Forum
-2025: <a
+and reviewed all papers at this conference</a> <br/></span> <span
+class="timeline-item academia"><strong>092025</strong>: 🎓 Invited to
+the Wallenberg Advanced Scientific Forum 2025: <a
 href="https://wasp-sweden.org/wallenberg-advanced-scientific-forum-2025/">Measuring
-What Matters: Evaluation as a Driver of Generative AI</a> <br/>
-<strong>Sep 2025</strong>: 🎧 France Culture, La Science CQFD: <a
+What Matters: Evaluation as a Driver of Generative AI</a> <br/></span>
+<span class="timeline-item podcast"><strong>092025</strong>: 🎧 France
+Culture, La Science CQFD: <a
 href="https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/l-ia-souffle-dans-l-algotest-1340696">Evaluation
-des IA : souffler dans l’algotest</a> <br/> <strong>Aug 2025</strong>:
-🗞️ MITTR: <a
+des IA : souffler dans l’algotest</a> <br/></span> <span
+class="timeline-item news"><strong>082025</strong>: 🗞️ MITTR: <a
 href="https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/">GPT-5
-is here, now what?</a> <br/> <strong>Jul 2025</strong>: 📜 ACL 2025: <a
+is here, now what?</a> <br/></span> <span
+class="timeline-item paper"><strong>072025</strong>: 📜 ACL 2025: <a
 href="https://arxiv.org/abs/2507.00999">La Leaderboard: A Large Language
 Model Leaderboard for Spanish Varieties and Languages of Spain and Latin
-America</a> <br/> <strong>Jun 2025</strong>: 🎧 Underscore: <a
+America</a> <br/></span> <span
+class="timeline-item podcast"><strong>062025</strong>: 🎧 Underscore: <a
 href="https://www.youtube.com/watch?v=biZX5cnQ_UU">AI has quietly
-reached a historic milestone</a> ✨ <br/> <strong>Apr 2025</strong>: 🗞️
-BusinessInsider: <a
+reached a historic milestone</a> ✨ <br/></span> <span
+class="timeline-item academia"><strong>052025</strong>: 🎓 Reviewer for
+ACL 2025 <br/></span> <span
+class="timeline-item news"><strong>042025</strong>: 🗞️ BusinessInsider:
+<a
 href="https://www.businessinsider.com/ai-benchmark-best-model-compare-meta-openai-deepseek-google-2025-4">Figuring
-out which AI model is right for you is harder than you think</a><br/>
-<strong>Apr 2025</strong>: 🗞️ VentureBeat : <a
+out which AI model is right for you is harder than you
+think</a><br/></span> <span
+class="timeline-item news"><strong>042025</strong>: 🗞️ VentureBeat : <a
 href="https://venturebeat.com/ai/beyond-generic-benchmarks-how-yourbench-lets-enterprises-evaluate-ai-models-against-actual-data/">Beyond
 generic benchmarks: How Yourbench lets enterprises evaluate AI models
-against actual data</a><br/> <strong>Apr 2025</strong>: 📜 Arxiv ➡️ COLM
-2025: <a href="https://arxiv.org/abs/2504.01833">YourBench: Easy Custom
-Evaluation Sets for Everyone</a><br/> <strong>Mar 2025</strong>: 🎤 CNRS
-NLP working group : <a href="talks/2025_panorama_llm_evals.pdf">Panorama
-of LLM evaluations</a> ✨ <br/> <strong>Mar 2025</strong>: 📝 Blog : <a
+against actual data</a><br/></span> <span
+class="timeline-item paper"><strong>042025</strong>: 📜 COLM 2025: <a
+href="https://arxiv.org/abs/2504.01833">YourBench: Easy Custom
+Evaluation Sets for Everyone</a><br/></span> <span
+class="timeline-item academia"><strong>032025</strong>: 🎤 Keynote for
+the CNRS NLP working group : <a
+href="talks/2025_panorama_llm_evals.pdf">Panorama of LLM evaluations</a>
+✨ <br/></span> <span
+class="timeline-item paper"><strong>032025</strong>: 📝 Blog : <a
 href="https://huggingface.co/blog/math_verify_leaderboard">Fixing the
-Open LLM Leaderboard with Math-Verify</a><br/> <strong>Mar
-2025</strong>: 🗞️ Epsiloon Magazine : <a
-href="https://www.epsiloon.com/tous-les-numeros/n46/ia_le_quiz_ultime/">IA:
-le quiz ultime</a> <br/> <strong>Feb 2025</strong>: 📺 France 24 TV : <a
-href="https://www.youtube.com/watch?v=snPH-zZRSNQ">Tech24 on AI</a><br/>
-<strong>Feb 2025</strong>: ⭐ 2025 French Innovators Awards, AI section
+Open LLM Leaderboard with Math-Verify</a><br/></span> <span
+class="timeline-item news"><strong>032025</strong>: 🗞️ Epsiloon Magazine
 : <a
+href="https://www.epsiloon.com/tous-les-numeros/n46/ia_le_quiz_ultime/">IA:
+le quiz ultime</a> <br/></span> <span
+class="timeline-item news"><strong>022025</strong>: 📺 France 24 TV : <a
+href="https://www.youtube.com/watch?v=snPH-zZRSNQ">Tech24</a><br/></span>
+<span class="timeline-item star"><strong>022025</strong>: ⭐ 2025
+“French Innovators” Award : <a
 href="https://www.lepoint.fr/sciences-nature/palmares-des-inventeurs-2025-notre-methodologie-et-nos-laureats-13-02-2025-2582376_1924.php">100
 French scientists whose research change our lives, by the French journal
-Le Point</a> <br/> <strong>Feb 2025</strong>: 📜 Arxiv ➡️ COLM 2025: <a
+Le Point</a> <br/></span> <span
+class="timeline-item paper"><strong>022025</strong>: 📜 COLM 2025: <a
 href="https://arxiv.org/abs/2502.02737">SmolLM2: When Smol Goes Big –
-Data-Centric Training of a Small Language Model</a><br/> <strong>Jan
-2025</strong>: 📝 Blog : <a
+Data-Centric Training of a Small Language Model</a><br/></span> <span
+class="timeline-item paper"><strong>012025</strong>: 📝 Blog : <a
 href="https://huggingface.co/blog/leaderboard-emissions-analysis">CO2
 emissions and model performance: Insights from the Open LLM
-Leaderboard</a><br/> <strong>Dec 2024</strong>: 📜 Arxiv ➡️ ACL 2025 :
-<a href="https://arxiv.org/abs/2412.03304">Global MMLU: Understanding
-and Addressing Cultural and Linguistic Biases in Multilingual
-Evaluation</a><br/> <strong>Oct 2024</strong>: ⚙️ Release : <a
+Leaderboard</a><br/></span> <span
+class="timeline-item paper"><strong>122024</strong>: 📜 ACL 2025 : <a
+href="https://arxiv.org/abs/2412.03304">Global MMLU: Understanding and
+Addressing Cultural and Linguistic Biases in Multilingual
+Evaluation</a><br/></span> <span
+class="timeline-item academia"><strong>112024</strong>: 🎓 Reviewer for
+the COLING 2025 <br/></span> <span
+class="timeline-item release"><strong>102024</strong>: ⚙️ Release : <a
 href="https://github.com/huggingface/evaluation-guidebook/">The LLM
-Evaluation Guidebook</a> ✨ <br/> <strong>Jul 2024</strong>: 🗞️ The
-Economist : <a
+Evaluation Guidebook</a> ✨ <br/></span> <span
+class="timeline-item news"><strong>072024</strong>: 🗞️ The Economist :
+<a
 href="https://www.economist.com/science-and-technology/2024/07/31/gpt-claude-llama-how-to-tell-which-ai-model-is-best">How
-to tell which AI model is best</a><br/> <strong>Jul 2024</strong>: 🎧
-Latent Space <a
-href="https://www.latent.space/p/benchmarks-201">Benchmarks 201</a> ✨
-<br/> <strong>Jun 2024</strong>: 🗞️ VentureBeat : <a
+to tell which AI model is best</a><br/></span> <span
+class="timeline-item podcast"><strong>072024</strong>: 🎧 Latent Space
+<a href="https://www.latent.space/p/benchmarks-201">Benchmarks 201</a>
+✨ <br/></span> <span
+class="timeline-item news"><strong>062024</strong>: 🗞️ VentureBeat : <a
 href="https://venturebeat.com/ai/hugging-faces-updated-leaderboard-shakes-up-the-ai-evaluation-game/">Hugging
-Face’s updated leaderboard shakes up the AI evaluation game</a><br/>
-<strong>Jun 2024</strong>: 🗞️ La Tribune : <a
+Face’s updated leaderboard shakes up the AI evaluation
+game</a><br/></span> <span
+class="timeline-item news"><strong>062024</strong>: 🗞️ La Tribune : <a
 href="https://www.latribune.fr/technos-medias/informatique/pour-contrer-la-crise-de-l-evaluation-des-ia-hugging-face-rehausse-les-exigences-1000836.html">Pour
 contrer la crise de l’évaluation des IA, Hugging Face rehausse les
-exigences</a><br/> <strong>Jun 2024</strong>: 📝 Blog : <a
+exigences</a><br/></span> <span
+class="timeline-item paper"><strong>062024</strong>: 📝 Blog : <a
 href="https://huggingface.co/spaces/open-llm-leaderboard/blog">Performances
-are plateauing, let’s make the leaderboard steep again</a> ✨ <br/>
-<strong>May 2024</strong>: 📝 Blog : <a
+are plateauing, let’s make the leaderboard steep again</a> ✨
+<br/></span> <span class="timeline-item paper"><strong>052024</strong>:
+📝 Blog : <a
 href="https://huggingface.co/blog/clefourrier/llm-evaluation">Let’s talk
-about LLM evaluation</a><br/> <strong>May 2024</strong>: ⭐ France’s top
-AI talents gathering: <a
-href="https://www.elysee.fr/emmanuel-macron/2024/05/22/rassemblement-des-plus-grands-talents-francais-de-lia">Event</a>
-<br/> <strong>Apr 2024</strong>: 🗞️ La Recherche : <a
+about LLM evaluation</a><br/></span> <span
+class="timeline-item star"><strong>052024</strong>: ⭐ “France’s top AI
+talents”: <a
+href="https://www.elysee.fr/emmanuel-macron/2024/05/22/rassemblement-des-plus-grands-talents-francais-de-lia">Gathering
+at Elysée</a> <br/></span> <span
+class="timeline-item news"><strong>042024</strong>: 🗞️ La Recherche : <a
 href="https://www.larecherche.fr/intelligence-artificielle/2023-lann%C3%A9e-des-grands-mod%C3%A8les-de-langue-ouverts">2023,
-l’année des grands modèles de langue ouverts</a><br/> <strong>Apr
-2024</strong>: 🗞️ TechCrunch : <a
+l’année des grands modèles de langue ouverts</a><br/></span> <span
+class="timeline-item news"><strong>042024</strong>: 🗞️ TechCrunch : <a
 href="https://techcrunch.com/2024/04/18/hugging-face-releases-a-benchmark-for-testing-generative-ai-on-health-tasks/">Hugging
 Face releases a benchmark for testing generative AI on health
-tasks</a><br/> <strong>Apr 2024</strong>: 📜 Arxiv : <a
+tasks</a><br/></span> <span
+class="timeline-item paper"><strong>042024</strong>: 📜 Arxiv : <a
 href="https://arxiv.org/abs/2404.05904">The Hallucinations Leaderboard –
 An Open Effort to Measure Hallucinations in Large Language
-Models</a><br/> <strong>Feb 2024</strong>: ⚙️ Release : <a
-href="https://github.com/huggingface/lighteval">Lighteval</a> ✨ <br/>
-<strong>Dec 2023</strong>: 📝 Blog : <a
+Models</a><br/></span> <span
+class="timeline-item release"><strong>022024</strong>: ⚙️ Release : <a
+href="https://github.com/huggingface/lighteval">Lighteval</a> ✨
+<br/></span> <span
+class="timeline-item academia"><strong>??2023</strong>: 🎓 Reviewer for
+the LChange Workshop <br/></span> <span
+class="timeline-item paper"><strong>122023</strong>: 📝 Blog : <a
 href="https://huggingface.co/blog/2023-in-llms">2023, year of Open
-LLMs</a> ✨ <br/> <strong>Dec 2023</strong>: 📝 Blog : <a
+LLMs</a> ✨ <br/></span> <span
+class="timeline-item paper"><strong>122023</strong>: 📝 Blog : <a
 href="https://huggingface.co/blog/open-llm-leaderboard-drop">Open LLM
-Leaderboard: DROP deep dive</a> <br/> <strong>Dec 2023</strong>: 📜
-Arxiv ➡️ ICLR 2024 : <a
+Leaderboard: DROP deep dive</a> <br/></span> <span
+class="timeline-item paper"><strong>122023</strong>: 📜 ICLR 2024 : <a
 href="https://openreview.net/forum?id=fibxvahvs3">GAIA: a benchmark for
-General AI Assistants</a> ✨ <br/> <strong>Oct 2023</strong>: 📜 Arxiv
-➡️ CoRR 2023: <a href="https://arxiv.org/abs/2310.16944">Zephyr: Direct
-Distillation of LM Alignment</a><br/> <strong>Jun 2023</strong>: 📝 Blog
-: <a href="https://huggingface.co/blog/open-llm-leaderboard-mmlu">What’s
-going on with the Open LLM Leaderboard?</a><br/> <strong>Apr
-2023</strong>: ⚙️ Release : <a
+General AI Assistants</a> ✨ <br/></span> <span
+class="timeline-item paper"><strong>102023</strong>: 📜 CoRR 2023: <a
+href="https://arxiv.org/abs/2310.16944">Zephyr: Direct Distillation of
+LM Alignment</a><br/></span> <span
+class="timeline-item paper"><strong>062023</strong>: 📝 Blog : <a
+href="https://huggingface.co/blog/open-llm-leaderboard-mmlu">What’s
+going on with the Open LLM Leaderboard?</a><br/></span> <span
+class="timeline-item academia"><strong>052023</strong>: Mentored 2 teams
+for the <a
+href="https://future.mozilla.org/builders-challenge/">Responsible AI
+Challenge</a> at Mozilla <br/></span> <span
+class="timeline-item release"><strong>042023</strong>: ⚙️ Release : <a
 href="https://huggingface.co/open-llm-leaderboard">Open LLM
-Leaderboard</a><br/> <strong>Mar 2023</strong>: 🎧 Parlons Tech : <a
+Leaderboard</a><br/></span> <span
+class="timeline-item podcast"><strong>032023</strong>: 🎧 Parlons Tech :
+<a
 href="https://soundcloud.com/orangehellofuture/parlons-tech-1-ia-generative-ethique-biais-algorithmiques-droits-auteurs">L’IA
-générative à la Loupe</a><br/> <strong>Jan 2023</strong>: 📝 Blog : <a
+générative à la Loupe</a><br/></span> <span
+class="timeline-item paper"><strong>012023</strong>: 📝 Blog : <a
 href="https://huggingface.co/blog/intro-graphml">Introduction to Graph
-Machine Learning</a><br/> <strong>Nov 2022</strong>: 📜 Arxiv : <a
+Machine Learning</a><br/></span> <span
+class="timeline-item academia"><strong>??2022</strong>: 🎓 Reviewer for
+the LChange Workshop <br/></span> <span
+class="timeline-item paper"><strong>112022</strong>: 📜 Arxiv : <a
 href="https://arxiv.org/abs/2211.05100">Bloom: A 176b-parameter
-open-access multilingual language model</a><br/> <strong>Oct
-2022</strong>: 📜 PhD : <a
+open-access multilingual language model</a><br/></span> <span
+class="timeline-item paper"><strong>102022</strong>: 📜 PhD : <a
 href="https://theses.hal.science/tel-04505549/">Neural Approaches to
-Historical Word Reconstruction</a> ✨ <br/> <strong>May 2022</strong>:
-📜 ACL 2022 : <a
+Historical Word Reconstruction</a> ✨ <br/></span> <span
+class="timeline-item paper"><strong>052022</strong>: 📜 ACL 2022 : <a
 href="https://aclanthology.org/2022.findings-acl.299/">Probing
-Multilingual Cognate Prediction Models</a> ✨ <br/> <strong>Apr
-2022</strong>: 📜 Arxiv : <a
+Multilingual Cognate Prediction Models</a> ✨ <br/></span> <span
+class="timeline-item paper"><strong>042022</strong>: 📜 Arxiv : <a
 href="https://arxiv.org/abs/2204.05211">Entities, Dates, and Languages:
-Zero-Shot on Historical Texts with T0</a><br/> <strong>Aug
-2021</strong>: 📜 ACL 2020: <a
+Zero-Shot on Historical Texts with T0</a><br/></span> <span
+class="timeline-item academia"><strong>??2020</strong>: 🎓 Reviewer for
+EMNLP 2020 <br/></span> <span
+class="timeline-item academia"><strong>??2021</strong>: 🎓 Reviewer for
+ACL 2020 <br/></span> <span
+class="timeline-item paper"><strong>082021</strong>: 📜 ACL 2021: <a
 href="https://aclanthology.org/2021.findings-acl.75/">Can Cognate
 Prediction Be Modelled as a Low-Resource Machine Translation
-Task?</a><br/> <strong>May 2020</strong>: 📜 LREC 2020: <a
+Task?</a><br/></span> <span
+class="timeline-item academia"><strong>??2020</strong>: 🎓 Reviewer for
+ACL 2020 <br/></span> <span
+class="timeline-item paper"><strong>052020</strong>: 📜 LREC 2020: <a
 href="https://aclanthology.org/2020.lrec-1.392/">Methodological Aspects
 of Developing and Managing an Etymological Lexical Resource: Introducing
-EtymDB-2.0</a><br/> <strong>Feb 2020</strong>: 📜 Arxiv : <a
+EtymDB-2.0</a><br/></span> <span
+class="timeline-item paper"><strong>022020</strong>: 📜 Arxiv : <a
 href="https://arxiv.org/abs/2002.03419">The Alzheimer’s Disease
 Prediction Of Longitudinal Evolution (TADPOLE) Challenge: Results after
-1 Year Follow-up</a></p>
+1 Year Follow-up</a><br/></span></p>
+</div>
+</div>
 <h4 id="researchinterest-topics">Research/interest topics</h4>
 <p>evaluating LLMs and agents (2022-2025)<br/> investigating graph
 machine learning (2022)<br/> reconstructing dead languages using ml
 (2019-2022)<br/> predicting neurodegenerative diseases from patient data
 through time (2017-2018)<br/> using 3D meshes and grids to visualize
 geology (structural modeling) (2014-2015)<br/></p>
-<p>It’s likely I’ll learn new things again!</p>
 <h4 id="about-this-site">About this site</h4>
 <p>This site is deliberately static and very lightweight, for ecology,
 accessibility, and <a
