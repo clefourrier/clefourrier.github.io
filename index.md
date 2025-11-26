@@ -25,8 +25,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 
 <div class="timeline-filter">
 <input type="checkbox" id="filter-star" class="filter-checkbox"><input type="checkbox" id="filter-paper" class="filter-checkbox"><input type="checkbox" id="filter-blog" class="filter-checkbox"><input type="checkbox" id="filter-news" class="filter-checkbox"><input type="checkbox" id="filter-podcast" class="filter-checkbox"><input type="checkbox" id="filter-academia" class="filter-checkbox"><input type="checkbox" id="filter-release" class="filter-checkbox"><input type="checkbox" id="filter-tv" class="filter-checkbox"><div class="filter-labels"><label for="filter-star">Awards </label><label for="filter-paper">Research</label><label for="filter-news">Press</label><label for="filter-podcast">Podcasts</label><label for="filter-academia">Academia</label><label for="filter-release">Ressources</label></div><div class="timeline-content">
-<span class="timeline-item academia">**??2025**: 🎓 Presentation to the [UVT FI team seminar](https://research.info.uvt.ro/seminar/panorama-of-llm-evaluation/): [Panorama of LLM evaluations Winter 2025](talks/2025_panorama_llm_evals_updated.pdf) <br/></span>
-<span class="timeline-item academia">**??2025**: 🎓 Expert evaluator to select funding for Horizon projects for the European Commission <br/></span>
+<span class="timeline-item academia">**112025**: 🎓 Presentation to the [UVT FI team seminar](https://research.info.uvt.ro/seminar/panorama-of-llm-evaluation/): [Panorama of LLM evaluations Winter 2025](talks/2025_panorama_llm_evals_updated.pdf) <br/></span>
 <span class="timeline-item academia">**112025**: 🎓 PhD Examiner for the thesis of [Grgur Kovac](https://grgkovac.github.io/): congrats! <br/></span>
 <span class="timeline-item paper">**102025**: 📝 Blog/Book : [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) ✨ <br/></span>
 <span class="timeline-item star">**102025**: ⭐ 2025's "AI 100" by H2O.ai: [Top AI Leaders Driving Real-World Impact](https://h2o.ai/ai-100/winners/2025/)  <br/></span>
@@ -47,6 +46,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 <span class="timeline-item star">**022025**: ⭐ 2025 "French Innovators" Award : [100 French scientists whose research change our lives, by the French journal Le Point](https://www.lepoint.fr/sciences-nature/palmares-des-inventeurs-2025-notre-methodologie-et-nos-laureats-13-02-2025-2582376_1924.php) <br/></span>
 <span class="timeline-item paper">**022025**: 📜 COLM 2025: [SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model](https://arxiv.org/abs/2502.02737)<br/></span>
 <span class="timeline-item paper">**012025**: 📝 Blog : [CO2 emissions and model performance: Insights from the Open LLM Leaderboard](https://huggingface.co/blog/leaderboard-emissions-analysis)<br/></span>
+<span class="timeline-item academia">**??2025**: 🎓 Expert evaluator to select funding for Horizon projects for the European Commission <br/></span>
 <span class="timeline-item paper">**122024**: 📜 ACL 2025 : [Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](https://arxiv.org/abs/2412.03304)<br/></span>
 <span class="timeline-item academia">**112024**: 🎓 Reviewer for the COLING 2025 <br/></span>
 <span class="timeline-item release">**102024**: ⚙️ Release : [The LLM Evaluation Guidebook](https://github.com/huggingface/evaluation-guidebook/) ✨ <br/></span>
