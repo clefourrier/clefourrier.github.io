@@ -13,7 +13,7 @@ css:
 
 I'm an AI researcher at HuggingFace. 
 
-Between 2023 and 2025, I led our evaluation efforts and collabs (on LLMs/agents) - [my team](https://huggingface.co/OpenEvals)'s most famous projects include [lighteval](https://github.com/huggingface/lighteval), the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) and the (former) Open LLM Leaderboard. We also built a couple evaluations, and helped around 50 teams build their own.
+Between 2023 and 2025, I led our evaluation efforts and collabs (on LLMs/agents) - [my team](https://huggingface.co/OpenEvals)'s most famous projects include [lighteval](https://github.com/huggingface/lighteval), the [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) and the (former) Open LLM Leaderboard. We also built a couple evaluations (including GAIA with Meta), and helped around 50 teams build their own.
 
 I enjoy programming, making science open and understandable, books, and delicious food.
 My motto would likely be: "So much to do, so little time".
@@ -25,6 +25,8 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 
 <div class="timeline-filter">
 <input type="checkbox" id="filter-star" class="filter-checkbox"><input type="checkbox" id="filter-paper" class="filter-checkbox"><input type="checkbox" id="filter-blog" class="filter-checkbox"><input type="checkbox" id="filter-news" class="filter-checkbox"><input type="checkbox" id="filter-podcast" class="filter-checkbox"><input type="checkbox" id="filter-academia" class="filter-checkbox"><input type="checkbox" id="filter-release" class="filter-checkbox"><input type="checkbox" id="filter-tv" class="filter-checkbox"><div class="filter-labels"><label for="filter-star">Awards </label><label for="filter-paper">Research</label><label for="filter-news">Press</label><label for="filter-podcast">Podcasts</label><label for="filter-academia">Academia</label><label for="filter-release">Ressources</label></div><div class="timeline-content">
+<span class="timeline-item academia">**??2025**: 🎓 Presentation to the [UVT FI team seminar](https://research.info.uvt.ro/seminar/panorama-of-llm-evaluation/): [Panorama of LLM evaluations Winter 2025](talks/2025_panorama_llm_evals_updated.pdf) <br/></span>
+<span class="timeline-item academia">**??2025**: 🎓 Expert evaluator to select funding for Horizon projects for the European Commission <br/></span>
 <span class="timeline-item academia">**112025**: 🎓 PhD Examiner for the thesis of [Grgur Kovac](https://grgkovac.github.io/): congrats! <br/></span>
 <span class="timeline-item paper">**102025**: 📝 Blog/Book : [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) ✨ <br/></span>
 <span class="timeline-item star">**102025**: ⭐ 2025's "AI 100" by H2O.ai: [Top AI Leaders Driving Real-World Impact](https://h2o.ai/ai-100/winners/2025/)  <br/></span>
