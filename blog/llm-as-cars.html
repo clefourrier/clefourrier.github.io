@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>llm-as-cars</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="if-llms-are-cars-do-we-want-a-car-centric-internet">If LLMs are
+cars, do we want a “car-centric” internet?</h1>
+<p>A car allows you to go further, faster than you would on your own two
+feet, but: - it requires some knowledge to be driven properly - it can
+make you lazy if you use it all the time for any very short trip - it
+encourages you to rush, packing more into your day because you
+<em>can</em> - it has a ecological and financial cost, compared to
+walking - it has changed the landscape</p>
+<p>This post is my random musings on why 1) AI feels very similar at the
+moment, and 2) maybe we want to go beyond a car-centric internet.</p>
+<h2 id="why-llms-are-cars">Why LLMs are cars</h2>
+<p><strong>Driving requires a licence and skills</strong> For a car, you
+don’t just “get in and go.” You need a license, and some skills to
+navigate. Knowing how to use AI requires you to actually understand
+risks and limitations, then keep watch and make sure you’re going in the
+correct direction.</p>
+<p>If you don’t steer the LLM properly, it will drive you into a ditch
+with perfect confidence.</p>
+<p><em>Note: We’re treating AI more like a bike than a car on that front
+at the moment - just learn as you go, if you crash, you’ll mostly hurt
+yourself… but the risk to others is increasing with agentic AI.</em></p>
+<p><strong>Going short distances</strong><br />
+Just as a car atrophies your legs if you use it to go down two streets
+instead of walking, AI atrophies your memory/ tolerance for
+friction/thinking capacity.</p>
+<p>We outsource the small cognitive tasks until we forget we ever knew
+how to do them.</p>
+<p><strong>Going long distances</strong><br />
+A car open up distance places, at the cost of some carbon consumption
+and driving fatigue. However, it’s a very different to rush through a
+highway or to hike the same distance. Both are fine, but sometimes it’s
+more interesting (though less convenient) to walk for a very long time,
+get lost, backtrack, take wrong turns, and discover something
+unexpected…</p>
+<p>Sometimes you want to arrive at answers, sometimes you need to
+<em>journey</em> through the question.</p>
+<p><strong>Moving too often</strong><br />
+The car can make distance feel trivial, so we pack more trips, errands,
+meetings into each day. More more more more more. But every item adds
+cumulative fatigue that doesn’t register until the end of the day.</p>
+<p>AI, similarly, changes our relationship to time. Problems that once
+demanded an hour of quiet contemplation now demand 30 seconds of
+prompting. So we prompt more, we output more, and the fatigue of double
+checking accumulates all the same.</p>
+<p><strong>Carbon cost</strong><br />
+The AI car runs on a fuel that isn’t gasoline, but data and computation.
+It produces a massive carbon footprint. Every “trip” you take—generating
+an image, summarizing a document, brainstorming an idea—burns a small
+amount of fossil fuel in a server farm somewhere. The aggregate cost is
+staggering.</p>
+<h2 id="llmscars-have-been-changing-the-city">LLMs/Cars have been
+changing the city</h2>
+<p>Cars didn’t just fill roads; we <em>rebuilt the cities</em> around
+them (especially in countries like the US). That created suburbs,
+shopping malls, and the death of the corner store.</p>
+<p>Similarly, we’re reshaping the digital landscape for AI and
+agents.</p>
+<p>Search engines are becoming answer engines. Social media feeds are
+becoming synthetic. We are building a “car-centric” cognitive city,
+where walking (slow, organic research) is not only inconvenient but
+genuinely harder to do. Finding new creators, tiny websites, exploring
+the web via linkrolls like we did in early 2000 is now complex.</p>
+<p>It’s becoming increasingly hard to get off the highways of
+information, but that means missing out on hidden gems and getting
+bombarded with actually irrelevant content instead (ads, SEO-optimized
+filler, AI-generated noise, among others).</p>
+<h3 id="an-alternative-to-cars-bike-centrism-and-denmark">An alternative
+to cars: bike-centrism and Denmark</h3>
+<p>In Denmark, it seems like biking is your main “moving around” mode:
+nine out of ten people own a bike, kids learn how to bike at age 2 or 3.
+Individuals cycle 1.4 km a day on average, and it’s often much faster
+than driving.</p>
+<p>This is no magic accident (policy/infrastructure/some public
+organisation). In the 1950s, like everywhere else, Danish urban planners
+believed the future belonged to cars (wider highways,yadda yadda). Then
+the 1970s oil crisis hit, protests demanded a car-free city.</p>
+<p>Nowadays, Denmark combines heavy taxes on oil and automobiles and
+cities designed around bikes. Copenhagen alone has around 400 kilometres
+of cycle paths—clearly separated from car lanes and sidewalks. Even
+better, there are “cycle superhighways” where commuter’s needs have the
+highest priority (for example, with traffic lights timed to average
+cycling speed), usually super well connected to bus and train
+stations.</p>
+<h3 id="what-would-a-bike-centric-internet-look-like">What would a
+bike-centric internet look like?</h3>
+<p>Right now, the web is becoming a fast highway system - you enter
+through a search engine like google, through platforms like
+facebook/tiktok/instagram, and don’t really move around - it’s even
+worse with LLMs, where you don’t even go out of the chat window. I’ve
+had discussions with people who want the web to become “agentic-first”,
+making websites compatible with AI more than focusing on human
+exploration, thinking that now the web will be accessed “through AI
+only”.</p>
+<p>Agent APIs are needed for some cases, sure. But highways are terrible
+places to <em>stroll</em>, and you don’t always need to use a car.
+They’re designed to get you somewhere quickly, not to let you wander -
+and can make you lazy, rushed and tired.</p>
+<p>What if we encouraged the use of different tools depending on
+different needs instead of reinforcing the highway? What if our designs
+rewarded slowness, curiosity, and detours (the human experience, in
+sum), in parallel with the efficient highways for our busy corporate
+overlords’ demands?</p>
+<p>Some ideas that already exist:</p>
+<ul>
+<li><strong>Efficient highway sign posts</strong>: Where you actually
+want to use LLMs, they should be able to access information fast and
+easily. This means clear, unambiguous, and well documented APIs for
+sites which want agent integration.</li>
+<li><strong>Natural reserves</strong>: Digital “slow web” spaces, where
+AI is <em>prohibited</em> (no crawlers, no summaries, …). Human-made
+content that you get directly, as is, without intermediation and
+distractions, without ads, without popups. A good example might be what
+people are doing with the Gemini protocol, an alternative to HTML.</li>
+<li><strong>Trail markings</strong>: Organic resharing of information -
+two tools were very good for this, but have kinda disappeared: RSS
+(replaced by mail newsletters and feeds) and blogrolls (since now most
+things are platform based) - it could be cool to reintroduce these (I
+suspect that, if we want to have indiviudal agents tailored to our
+needs, they would also benefit from RSS and personal curation)</li>
+</ul>
+<p>Some random ideas that don’t exist, as far as I know, but it might be
+fun if they could:</p>
+<ul>
+<li><strong>Stop areas</strong>: Just places that encourage you to go
+offline and think</li>
+<li><strong>“Speed bumps” for information</strong>: Introducing
+deliberate friction to load flagged posts (fake news, strong divisive
+emotions trigger posts, …), to help make anti-viral content. They could
+load slowly, or require a captcha to open?</li>
+<li><strong>Viewpoints</strong>: Pages automatically aggregating a
+variety of high quality sources on a topic with a focus on different
+cultural or historical perspectives, and pointing back to the original
+authors.</li>
+</ul>
+<p>Cities for cars were a choice. The AI internet city can be too. We
+can have highways for speed and efficiency, bike lanes for daily things,
+and walking trails for exploration and discovery… but only if we
+consciously design for all of them.</p>
+<p>I hope we build our city with room to wa/onder.</p>
+</body>
+</html>

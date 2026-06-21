@@ -59,16 +59,18 @@ Agent APIs are needed for some cases, sure. But highways are terrible places to 
 What if we encouraged the use of different tools depending on different needs instead of reinforcing the highway? What if our designs rewarded slowness, curiosity, and detours (the human experience, in sum), in parallel with the efficient highways for our busy corporate overlords' demands?
 
 Some ideas that already exist:
+
 - **Efficient highway sign posts**: Where you actually want to use LLMs, they should be able to access information fast and easily. This means clear, unambiguous, and well documented APIs for sites which want agent integration. 
 - **Natural reserves**: Digital "slow web" spaces, where AI is _prohibited_ (no crawlers, no summaries, ...). Human-made content that you get directly, as is, without intermediation and distractions, without ads, without popups. A good example might be what people are doing with the Gemini protocol, an alternative to HTML.
-- **Trail markings**: Organic resharing of information - two tools were very good for this, but have kinda disappeared: RSS (replaced by mail newsletters and feeds) and blogrolls (since now most things are platform based) - it could be cool to reintroduce these (I suspect that agents would also benefit from RSS and personal curation)
+- **Trail markings**: Organic resharing of information - two tools were very good for this, but have kinda disappeared: RSS (replaced by mail newsletters and feeds) and blogrolls (since now most things are platform based) - it could be cool to reintroduce these (I suspect that, if we want to have indiviudal agents tailored to our needs, they would also benefit from RSS and personal curation)
 
-Some random ideas that don't exist, as far as I know, but it might be fun if they could
-- **Stop areas**: Search engine that gives no black or white answer but instead gives you sources from different angles, conflicting perspectives, and open questions to think about offline
+Some random ideas that don't exist, as far as I know, but it might be fun if they could:
+
+- **Stop areas**: Just places that encourage you to go offline and think
 - **"Speed bumps" for information**: Introducing deliberate friction to load flagged posts (fake news, strong divisive emotions trigger posts, ...), to help make anti-viral content. They could load slowly, or require a captcha to open?
 - **Viewpoints**: Pages automatically aggregating a variety of high quality sources on a topic with a focus on different cultural or historical perspectives, and pointing back to the original authors.
 
 
 Cities for cars were a choice. The AI internet city can be too. We can have highways for speed and efficiency, bike lanes for daily things, and walking trails for exploration and discovery... but only if we consciously design for all of them. 
 
-I hope we build our city with room to w[ao]nder.
+I hope we build our city with room to wa/onder.

@@ -25,7 +25,7 @@ You'll find me as `clefourrier` over the web ([Twitter](https://twitter.com/clef
 
 <div class="timeline-filter">
 <input type="checkbox" id="filter-star" class="filter-checkbox"><input type="checkbox" id="filter-paper" class="filter-checkbox"><input type="checkbox" id="filter-blog" class="filter-checkbox"><input type="checkbox" id="filter-news" class="filter-checkbox"><input type="checkbox" id="filter-podcast" class="filter-checkbox"><input type="checkbox" id="filter-academia" class="filter-checkbox"><input type="checkbox" id="filter-release" class="filter-checkbox"><input type="checkbox" id="filter-tv" class="filter-checkbox"><div class="filter-labels"><label for="filter-star">Awards </label><label for="filter-paper">Research</label><label for="filter-news">Press</label><label for="filter-podcast">Podcasts</label><label for="filter-academia">Academia</label><label for="filter-release">Ressources</label></div><div class="timeline-content">
-<span class="timeline-item paper">**062025**: 📝 Blog : [If LLMs are car, do we want a car centric internet?](blog/llm-as-cars.md) <br/></span>
+<span class="timeline-item paper">**062025**: 📝 Blog : [If LLM are cars, should we want a car centric internet?](blog/llm-as-cars.html) <br/></span>
 <span class="timeline-item star">**2026**: ⭐ On sabbatical! <br/></span>
 <span class="timeline-item release">**122025**: ⚙️ Release : [LLM Evaluation Guidebook v2](https://huggingface.co/spaces/OpenEvals/evaluation-guidebook)<br/></span>
 <span class="timeline-item academia">**112025**: 🎓 Presentation to the [UVT FI team seminar](https://research.info.uvt.ro/seminar/panorama-of-llm-evaluation/): [Panorama of LLM evaluations Winter 2025](talks/2025_panorama_llm_evals_updated.pdf) <br/></span>
